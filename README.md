@@ -108,7 +108,7 @@
 
 >Win+R⇒键入"cmd"，回车⇒键入"ipconfig"，查看电脑的ipv4地址，如图:
 
-![]()
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/-1deca77a9056d324.jpg)
 
 >平板长按已连接的网络⇒修改网络⇒把代理改为手动⇒代理地址填上上一步获得的ip地址⇒端口填上**8888**⇒保存，如图:
 
