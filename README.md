@@ -106,7 +106,7 @@
 
 >首先将 ***平板*** 和 ***电脑*** 连接到同一个网络下
 
->Win+R⇒键入"cmd"，回车⇒键入"ipconfig"，查看电脑的ipv4地址，如图:
+>Win+R⇒键入"cmd"，回车⇒键入"ipconfig"，查看电脑的ipv4地址，如图(与下图有出入请忽略):
 
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/-1deca77a9056d324.jpg)
 
