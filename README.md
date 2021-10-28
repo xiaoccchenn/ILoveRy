@@ -10,7 +10,7 @@
 ## - All_versions&All_devices_Myipad———————Unlock‼
   - [三星篇1](#三星篇1) 
   - [联想篇1](#联想篇1) 
-     - [联想篇1.1](#联想篇1.1)
+     - [联想篇1.1](##联想篇1.1)
   - [华为篇](#华为篇) 
 
 ## - Root&Advanced_gameplay———————Goahead‼
