@@ -113,7 +113,20 @@
 >平板长按已连接的网络⇒修改网络⇒把代理改为手动⇒代理地址填上上一步获得的ip地址⇒端口填上**8888**⇒保存，如图:
 
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/6d4a7120a708f264.jpg)
+
+>打开Fiddler⇒左上角tools⇒Options⇒弹出的六个选项全部勾上⇒切换到connection⇒四个选项全部勾上并确保端口为***8888***⇒点击OK⇒重启Fiddler
+
+>准备工作已经就绪，下面开始抓包
+
+>平板进入课堂实录，随便选择一个视频，点击
+
+>此时Fiddler会弹出一些网址，选择网址左边是 ***绿色的下载*** 符号的网址右键⇒Copy⇒JustURL⇒点击复制
+
+>进入Autorespond⇒点击Add Rule⇒此时会自动添加刚刚复制的url⇒点击第二栏最右边的▽⇒选择最后一个Searchfiles⇒自动索引打开文件资源管理器⇒找到并选择DevicePolicyManager.apk
   
+>最后勾上 ***Enable rules*** 和 ***Allow all connects***
+
+
   
   
   
