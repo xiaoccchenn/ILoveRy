@@ -49,7 +49,7 @@
   
 > 首先，平板进入到安全模式(具体操作请自行探索)，如图:
 
-![](https://github.com/EeXpEct/RY_Pics/blob/main/3d23ab40ab256962.jpg)
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/54b836e2b2eba622.jpg)
   
 >  进入后选择第一个选项 ***"重装少年派"***
  
@@ -57,7 +57,7 @@
   
 >  你会看到一个 ***加密设备*** 的选项，如图:
 
-![](https://github.com/EeXpEct/RY_Pics/blob/main/-5c8aa52da97f4830.jpg)
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/50b44710317830fd.jpg)
   
 >  此时，在很短一段时间里 ***加密设备*** 是可以点击的(速度要快)
   
