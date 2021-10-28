@@ -3,7 +3,7 @@
 
 > 如有任何疑问，请向我发email:h.shelter@outlook.com 
 
->每一part需要用到的工具中，标记▲为有提供的，标记△的请自行准备。
+>每一part需要用到的工具中，标记▲为有提供的，标记△的请自行准备，默认下载密码:***RYNB*** 。
 
   
 # Contents
@@ -81,7 +81,7 @@
    
    [(Back to top)](#Contents) 
    
-   相信大多数同学们的平板都是联想的TB—X605M，所以破解的需求面更为宽泛，且听我慢慢到来
+   相信大多数同学们的平板都是联想的TB—X605M，所以破解的需求面更为宽泛，其方法有三，且听我慢慢到来
    
 * ##### 5.2.352411
    
@@ -93,13 +93,12 @@
 >
 >▲Fiddler抓包工具 
 >
->▲DevicePolicyManager.apk
+>▲DevicePolicyManager(ByShelter).apk
 >
 >△一台能开热点的手机
->   
-
+> 
+>▲[点击下载所有内容](https://wws.lanzoui.com/b02ckj74f)
    
-  
  
   
   
