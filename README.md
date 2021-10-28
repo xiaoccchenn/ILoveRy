@@ -126,7 +126,7 @@
   
 >最后勾上 ***Enable rules*** 和 ***Allow all connects***
 
->平板点击 ***下载当前视频*** 此时将会下载DevicePolicyManager.apk
+>平板点击 ***“下载当前视频”*** 此时将会下载DevicePolicyManager.apk
 
 >等待进度条快速走完即可
 
@@ -134,7 +134,7 @@
 
 >接下来的操作全由平板进行
 
->随便点开自主学习的一个文件⇒批注⇒向左滑动 ***其他*** 一栏⇒选择 ***视频*** ⇒从文件选择⇒找到刚刚下载的视频，路径为(Andorid/data/com.netspace.myipad/cache)⇒滑动到最下面
+>随便点开自主学习的一个文件⇒批注⇒向左滑动 ***“其他”*** 一栏⇒选择 ***“视频”*** ⇒从文件选择⇒找到刚刚下载的视频，路径为(Andorid/data/com.netspace.myipad/cache)⇒滑动到最下面
 
 >⇒点击最下面的mp4文件⇒添加视频后⇒
   
