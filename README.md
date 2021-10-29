@@ -11,7 +11,7 @@
 
 # Project preview
 
-版本号|解锁|类型|高级玩法|传送门
+Versions|Unlock|Hardware|Advantage_play|Quickly_reach
 --|:--:|:--:|:--:|--:
 **5.2.2xxxxx**|✔|SM-P350|?|
 **5.2.3xxxxx**|✔|SM-P350|?|
