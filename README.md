@@ -19,6 +19,13 @@ Versions|Hardware|Unlock|Quickly_reach
 **5.2.352411**|TB-X605M|✔|?|
 **5.2.3xxxxx**|TB-X605M|✔|?|
 
+## Advantage_plays                              
+Hardware|Rooted|Quickly_reach|Hide
+--|:--:|:--:|:--:
+**SM-P350**|✔|[Go](#Root-for-SM-P350)|?|
+**TB-X605M**|✔|[Go](#Root-for-TB-X605M)|?|
+**The-Third-Device**|✖️|✖️|?|
+
 ##  三星篇  
 
 [(Back to top)](#ILoveRy) 
