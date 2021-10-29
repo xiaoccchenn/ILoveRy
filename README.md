@@ -14,10 +14,10 @@
 ## Unlock                                 
 Versions|Hardware|Unlock|Quickly_reach
 --|:--:|:--:|:--:
-**5.2.2xxxxx**|SM-P350|✔|Methoed[1](##三星篇)|
+**5.2.2xxxxx**|SM-P350|✔|Method[1](##三星篇)|
 **5.2.3xxxxx**|SM-P350|✔|?|
 **5.2.352411**|TB-X605M|✔|?|
-**5.2.3xxxxx**|TB-X605M|✔|Method[1](##联想篇1-2)[2](##联想篇1-3)|
+**5.2.3xxxxx**|TB-X605M|✔|Method[1](#联想篇1-2)、[2](#联想篇1-3)|
 
 ## Advantage_plays                              
 Hardware|Rooted|Quickly_reach|Hide
