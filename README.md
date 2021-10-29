@@ -11,12 +11,13 @@
 
 # Project preview
 
-Versions|Unlock|Hardware|Advantage_play|Quickly_reach
---|:--:|:--:|:--:|--:
-**5.2.2xxxxx**|✔|SM-P350|?|
-**5.2.3xxxxx**|✔|SM-P350|?|
-**5.2.352411**|✔|TB-X605M|?|
-**5.2.3xxxxx**|✔|TB-X605M|?|
+## Unlock                                 
+Versions|Hardware|Unlock|Quickly_reach
+--|:--:|:--:|:--:
+**5.2.2xxxxx**|SM-P350|✔|?|
+**5.2.3xxxxx**|SM-P350|✔|?|
+**5.2.352411**|TB-X605M|✔|?|
+**5.2.3xxxxx**|TB-X605M|✔|?|
 
 ##  三星篇  
 
