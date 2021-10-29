@@ -5,20 +5,23 @@
 
 >每一part需要用到的工具中，标记▲为有提供的，标记△的请自行准备，默认下载密码:***RYNB*** 。
 
+---
+
+
   
 # Contents
-## - All_versions&All_devices_Myipad———————Unlock‼
+### - All_versions&All_devices_Myipad———————Unlock‼
   - [三星篇1](#三星篇1) 
   - [联想篇1](#联想篇1) 
     - [联想篇1.1](#联想篇1-1)
     - [联想篇1.2](#联想篇1-2)
   - [华为篇](#华为篇) 
 
-## - Root&Advanced_gameplay———————Goahead‼
+### - Root&Advanced_gameplay———————Goahead‼
   - [三星篇2](#三星篇2) 
   - [联想篇2](#联想篇2) 
 
-## - Contributor
+### - Contributor
   - [特别鸣谢](#特别鸣谢) 
   - [后话](#后话)
 
