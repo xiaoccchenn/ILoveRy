@@ -3,37 +3,25 @@
 
 > 少年派速通教程，通，都能速通 
 
-> 如有任何疑问，请向我发email:h.shelter@outlook.com 
+> 如有任何疑问，请向我发Email:h.shelter@outlook.com 
 
 >每一part需要用到的工具中，标记▲为有提供的，标记△的请自行准备，默认下载密码:***RYNB*** 。
 
 ---
 
+版本号|解锁|类型
+--|:--:|--:
+**5.2.2xxxxx**|✔|三星
+**5.2.3xxxxx**|✔|三星
+**5.2.352411xxxxx**|✔|联想
+**5.2.3xxxxx**|✔|联想
 
-  
-# Contents
-### - All_versions&All_devices_Myipad———————Unlock‼
-  - [三星篇1](#三星篇1) 
-  - [联想篇1](#联想篇1) 
-    - [联想篇1.1](#联想篇1-1)
-    - [联想篇1.2](#联想篇1-2)
-  - [华为篇](#华为篇) 
-
-### - Root&Advanced_gameplay———————Goahead‼
-  - [三星篇2](#三星篇2) 
-  - [联想篇2](#联想篇2) 
-
-### - Contributor
-  - [特别鸣谢](#特别鸣谢) 
-  - [后话](#后话)
-
-
-# All_versions&All_devices_Myipad———————Unlock‼
-   #  三星篇1
+## All_versions&All_devices_Myipad———————Unlock‼
+   ##  三星篇1
    
    [(Back to top)](#Contents) 
-* ##### 5.2.2xxxxx
-  5.2.2开头的版本，目前网上已有许多教程，故不详细展开，只提供思路，思路如下：
+** 5.2.2xxxxx **
+5.2.2开头的版本，目前网上已有许多教程，故不详细展开，只提供思路，思路如下：
  
 >利用fiddler等抓包工具，替换书包里面的应用为设备管理器.
 
