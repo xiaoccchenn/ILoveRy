@@ -16,8 +16,7 @@
 **5.2.352411xxxxx**|✔|联想
 **5.2.3xxxxx**|✔|联想
 
-## All_versions&All_devices_Myipad———————Unlock‼
-   ##  三星篇1
+##  三星篇
    
    [(Back to top)](#Contents) 
 ** 5.2.2xxxxx **
