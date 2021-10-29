@@ -160,9 +160,13 @@
   **需要准备的工具**
   
 >▲DevicePolicyManager(ByShelter).apk
+>
 >△一个Outlook邮箱账号
+>
 >△一个网易邮箱账号
+>
 >△一台设置里有 ***电池*** 的平板
+>
 >▲[点击下载所有内容](https://wws.lanzoui.com/i4wwmvwlf2b)
   
 
