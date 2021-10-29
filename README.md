@@ -16,7 +16,7 @@
 **5.2.352411**|✔|联想|
 **5.2.3xxxxx**|✔|联想|
 
-##  三星篇  [(Back to top)](#Contents) 
+##  三星篇  [(Back to top)](#ILoveRy) 
    
 * ##### 5.2.2xxxxx
 5.2.2开头的版本，目前网上已有许多教程，故不详细展开，只提供思路，思路如下：
@@ -72,13 +72,13 @@
 
    #  联想篇1
    
-   [(Back to top)](#Contents) 
+   [(Back to top)](#ILoveRy) 
    
    相信大多数同学们的平板都是联想的TB—X605M，所以破解的需求面更为宽泛，其方法有三，且听我慢慢到来
    
    ## 联想篇1-1
    
-   [(Back to top)](#Contents)
+   [(Back to top)](#ILoveRy)
    
 * ##### 5.2.352411
    
