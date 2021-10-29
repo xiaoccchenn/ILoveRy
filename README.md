@@ -13,18 +13,17 @@
 --|:--:|--:
 **5.2.2xxxxx**|✔|三星
 **5.2.3xxxxx**|✔|三星
-**5.2.352411xxxxx**|✔|联想
+**5.2.352411**|✔|联想
 **5.2.3xxxxx**|✔|联想
 
-##  三星篇
+##  三星篇 [(Back to top)]
    
-   [(Back to top)](#Contents) 
 ** 5.2.2xxxxx **
 5.2.2开头的版本，目前网上已有许多教程，故不详细展开，只提供思路，思路如下：
  
->利用fiddler等抓包工具，替换书包里面的应用为设备管理器.
+利用fiddler等抓包工具，替换书包里面的应用为设备管理器.
 
->详细教程请前往 [Wtrwx的Blog](https://wtrwx.github.io/20200206/snpcrack.html)
+详细教程请前往 [Wtrwx的Blog](https://wtrwx.github.io/20200206/snpcrack.html)
 
 * ##### 5.2.3xxxxx
   5.2.3开头的版本想必是大家最难找到方法的(除非你有RY的服务器证书和签名二维码的工具))) 
