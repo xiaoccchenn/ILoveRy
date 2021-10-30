@@ -188,11 +188,65 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >大功告成!
 
+   ## 联想篇1-3
+   
+   [(Back to top)](#Project-preview)
+   
+* ##### 5.2.3xxxxx/5.2.2xxxxx
+   
+>接下来是关于联想平板破解的终极方法，它不受版本的限制，不受系统的限制，只要它的型号叫做TB-X605M，便可以使用接下来的方法)))
 
+  **需要准备的工具**
+  
+>△Win10操作系统的PC一台
+>
+>▲QPST_2.7.496
+>
+>△一根数据线
+>
+>△一台拆了后盖的平板
+> 
+>△一根拿来短接用的回形针
+>
+>△prog_emmc_firehose_8953_ddr.mbn(引导文件为绝密级，故请自行寻找，一般在刷机包里面会有)
+>
+>[点击下载所有内容](https://wws.lanzoui.com/b02ckrf5c)
 
+>首先在电脑解压并打开 ***"QPST_2.7.496"*** ,点击第一个文件夹 ***"Driver"*** ，执行.exe文件以安装高通驱动。
 
+>驱动安装完成后重启电脑，并执行 ***"QPST.2.7.496.1.exe"*** 
 
+>安装完成后，右下角打开最近添加中的QPST，打开QPST,如图:
 
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/4P5%40PV)N)6%7B3(%5BJ_HA7O)Q4.png)
+
+>此时标题显示的是 ***"No Port Available***" ,如图:
+
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/OJ6PUSCGWH%5D%60Z%7D3V784YI_H.png)
+
+>接下来是最关键的一步，首先将平板关机(一定要确保)，此时已经默认你已经将后盖拆好
+
+>找到短接点，如图:
+
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/22%5DNAH4J_P%7D69Q1M%25(G5XEQ.png)
+
+>先将数据线的一端连接电脑，再利用刚刚准备的回形针 ***短接*** 所示点位
+
+>确保回形针的两端已经短接点位后的一瞬间，将数据线另一端插上平板，建议事先凑近充电口，且将线插入后，不要离开松开回形针
+
+>当电脑上的QFIL显示 ***Please Select an Existing Port*** 时，如图:
+ 
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/YF10AQ4PZ%24%7BE%5DTFCK_IZEKC.png)
+
+>恭喜你成功进入了 ***9008模式*** !! 选择9008端口即可
+
+>接下来的步骤就十分轻而易举了，左上角选择 ***Flat Build*** ，在第一框框里点击 ***Browser*** ，打开mbn文件，如图:
+
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/YPA%405K_R7%60TLT(P%40KO%5D5PGV.png)
+
+>最上面一栏中，选择 ***Toola*** ， ***Partition Manager***，点击打开分区表，如图:
+
+![]()
 
 
 
