@@ -218,7 +218,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >安装完成后，右下角打开最近添加中的QPST，打开QPST,如图:
 
-![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/E10UH9AZKQ(RAE4%5DN%5D247_5.png)
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/134416464364.png)
 
 >此时标题显示的是 ***"No Port Available***" ,如图:
 
