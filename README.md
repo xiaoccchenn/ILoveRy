@@ -11,7 +11,8 @@
 
 # Project preview
 
-## Unlock                                 
+## Unlock      
+### (Attention!you must have a pad /xyx)  
 Versions|Hardware|Unlock|Quickly_reach
 --|:--:|:--:|:--:
 **5.2.2xxxxx**|SM-P350|✔|[Go](#三星篇1-1)|
