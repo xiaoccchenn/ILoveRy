@@ -238,11 +238,11 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
  
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/YF10AQ4PZ%24%7BE%5DTFCK_IZEKC.png)
 
->恭喜你成功进入了 ***9008模式*** !! 选择9008端口即可
+>恭喜你成功进入了 ***9008模式*** !! 然后选择9008端口即可
 
 >接下来的步骤就十分轻而易举了，左上角选择 ***Flat Build*** ，在第一框框里点击 ***Browser*** ，打开mbn文件，如图:
 
-![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/YPA%405K_R7%60TLT(P%40KO%5D5PGV.png)
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/468464446.png)
 
 >最上面一栏中，选择 ***Toola*** ， ***Partition Manager***，点击打开分区表，滑到最后一个名叫 ***userdata*** 的分区
 
