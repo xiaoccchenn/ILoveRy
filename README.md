@@ -244,9 +244,15 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/YPA%405K_R7%60TLT(P%40KO%5D5PGV.png)
 
->最上面一栏中，选择 ***Toola*** ， ***Partition Manager***，点击打开分区表，如图:
+>最上面一栏中，选择 ***Toola*** ， ***Partition Manager***，点击打开分区表，滑到最后一个名叫 ***userdata*** 的分区
 
-![]()
+>右键该分区，选择第一个 ***Manage partition*** ，再点击第一个 ***Erase***，等待一会QFIL显示 ***Finish...***，则表示已清除数据分区
+
+>最后一路close，等待平板震动后即可拔掉数据线，若平板长时间无反应，则长按 ***电源键*** 和 ***音量下键*** 直至震动
+
+>最后若平板出现彩色的圈圈，则表示你已经成功了!!
+
+>大功告成!!
 
 
 
