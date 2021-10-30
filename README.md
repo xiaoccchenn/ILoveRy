@@ -28,7 +28,7 @@ Hardware|Rooted|Quickly_reach|Hide|Quickly_reach
 
 ##  三星篇1-1  
 
-[(Back to top)](#ILoveRy) 
+[(Back to top)](#Project-preview) 
    
 * ##### 5.2.2xxxxx
 5.2.2开头的版本，目前网上已有许多教程，故不详细展开，只提供思路，思路如下：
@@ -39,7 +39,7 @@ Hardware|Rooted|Quickly_reach|Hide|Quickly_reach
 
 ##  三星篇1-2
 
-[(Back to top)](#ILoveRy)
+[(Back to top)](#Project-preview)
 
 * ##### 5.2.3xxxxx
 5.2.3开头的版本想必是大家最难找到方法的(除非你有RY的服务器证书和签名二维码的工具))) 
@@ -81,13 +81,13 @@ Hardware|Rooted|Quickly_reach|Hide|Quickly_reach
 
    #  联想篇1
    
-   [(Back to top)](#ILoveRy) 
+   [(Back to top)](#Project-preview) 
    
    相信大多数同学们的平板都是联想的TB—X605M，所以破解的需求面更为宽泛，其方法有三，且听我慢慢到来
    
    ## 联想篇1-1
    
-   [(Back to top)](#ILoveRy)
+   [(Back to top)](#Project-preview)
    
 * ##### 5.2.352411
    
@@ -153,7 +153,7 @@ Hardware|Rooted|Quickly_reach|Hide|Quickly_reach
 
    ## 联想篇1-2
    
-   [(Back to top)](#Contents)
+   [(Back to top)](#Project-preview)
    
 * ##### 5.2.3xxxxx
    
