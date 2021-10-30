@@ -20,11 +20,11 @@ Versions|Hardware|Unlock|Quickly_reach
 **5.2.3xxxxx**|TB-X605M|✔|**Method**[1](#联想篇1-2)、[2](#联想篇1-3)|
 
 ## Advantage_plays                              
-Hardware|Rooted|Quickly_reach|Hide|Quickly_reach
---|:--:|:--:|:--:|:--:
-**SM-P350**|✔|[Go](#Root-for-SM-P350)|?|?|
-**TB-X605M**|✔|[Go](#Root-for-TB-X605M)|?|?|
-**The-Third-Device**|✖|✖|?|?|
+Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Login|Quickly_reach
+--|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+**SM-P350**|✔|[Go](#Root-for-SM-P350)|?|?|?|?|?|
+**TB-X605M**|✔|[Go](#Root-for-TB-X605M)|?|?|?|?|?|
+**The-Third-Device**|✖|✖|?|?|?|?|?|
 
 ##  三星篇1-1  
 
