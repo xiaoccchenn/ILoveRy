@@ -17,7 +17,7 @@ Versions|Hardware|Unlock|Quickly_reach
 **5.2.2xxxxx**|SM-P350|✔|[Go](#三星篇1-1)|
 **5.2.3xxxxx**|SM-P350|✔|[Go](#三星篇1-2)|
 **5.2.352411**|TB-X605M|✔|[Go](#联想篇1-1)|
-**5.2.3xxxxx**|TB-X605M|✔|**Method**[1](#联想篇1-2)、[2](#联想篇1-3)|
+**5.2.3xxxxx**|TB-X605M|✔|**Go**[1](#联想篇1-2)、[2](#联想篇1-3)|
 **5.2.3xxxxx**|HUAWEI-C5|✔|[Go](#华为篇篇1)|
 
 ## Advantage_plays                              
