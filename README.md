@@ -28,6 +28,8 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 **TB-X605M**|✔|[Go](#Root-for-TB-X605M)|✔|[Go](#Hide-for-TB-X605M)|✔|[Go](#Double-OS-for-TB-X605M)|✖|◾|
 **The-Third-Device**|✖|◾|✖|◾|✖|◾|✔|[Go](#How-to-login-in-the-third-device)|
 
+   #  三星篇
+
 ##  三星篇1-1  
 
 [(Back to top)](#Project-preview) 
@@ -79,7 +81,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 此时平板会重启，在重启过程中(提前准备好)同时按住音量—和电源键和HOME键15秒，强制重启以打断解密过程。
 平板再次重启后就会进入另一个界面，届时会有一个 ***重置设备*** 按钮，点击即可将平板恢复出厂设置.
 
-   #  联想篇1
+   #  联想篇
    
   [(Back to top)](#Project-preview) 
   
