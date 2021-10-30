@@ -39,6 +39,8 @@ Hardware|Rooted|Quickly_reach|Hide|Quickly_reach
 
 ##  三星篇1-2
 
+[(Back to top)](#ILoveRy)
+
 * ##### 5.2.3xxxxx
 5.2.3开头的版本想必是大家最难找到方法的(除非你有RY的服务器证书和签名二维码的工具))) 
 
