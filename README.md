@@ -20,7 +20,8 @@ Versions|Hardware|Unlock|Quickly_reach
 **5.2.3xxxxx**|TB-X605M|✔|**Go**[1](#联想篇1-2)、[2](#联想篇1-3)|
 **5.2.3xxxxx**|HUAWEI-C5|✔|[Go](#华为篇篇1)|
 
-## Advantage_plays                              
+## Advantage_plays  
+### (Attention!you must crack your pad before doing the followings)                            
 Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Login|Quickly_reach
 --|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
 **SM-P350**|✔|[Go](#Root-for-SM-P350)|✔|[Go](#Hide-for-SM-P350)|✖|◾|✖|◾|
