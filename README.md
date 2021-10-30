@@ -22,9 +22,9 @@ Versions|Hardware|Unlock|Quickly_reach
 ## Advantage_plays                              
 Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Login|Quickly_reach
 --|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
-**SM-P350**|✔|[Go](#Root-for-SM-P350)|✔|[Go](#Hide-for-SM-P350)|?|?|?|?|
-**TB-X605M**|✔|[Go](#Root-for-TB-X605M)|✔|[Go](#Root-for-TB-X605M)|?|?|?|?|
-**The-Third-Device**|✖|◾|?|?|?|?|?|?|
+**SM-P350**|✔|[Go](#Root-for-SM-P350)|✔|[Go](#Hide-for-SM-P350)|✖|◾|✖|◾|
+**TB-X605M**|✔|[Go](#Root-for-TB-X605M)|✔|[Go](#Hide-for-TB-X605M)|✔|[Go](#Double-OS-for-TB-X605M)|✖|◾|
+**The-Third-Device**|✖|◾|✖|◾|✖|◾|✔|[Go](#How-to-login-in-the-third-device)|
 
 ##  三星篇1-1  
 
