@@ -14,10 +14,10 @@
 ## Unlock                                 
 Versions|Hardware|Unlock|Quickly_reach
 --|:--:|:--:|:--:
-**5.2.2xxxxx**|SM-P350|✔|Method[1](#三星篇)|
-**5.2.3xxxxx**|SM-P350|✔|?|
-**5.2.352411**|TB-X605M|✔|?|
-**5.2.3xxxxx**|TB-X605M|✔|Method[1](#联想篇1-2)、[2](#联想篇1-3)|
+**5.2.2xxxxx**|SM-P350|✔|[Go](#三星篇1-1)|
+**5.2.3xxxxx**|SM-P350|✔|[Go](#三星篇1-2)|
+**5.2.352411**|TB-X605M|✔|[Go](#联想篇1-1)|
+**5.2.3xxxxx**|TB-X605M|✔|**Method**[1](#联想篇1-2)、[2](#联想篇1-3)|
 
 ## Advantage_plays                              
 Hardware|Rooted|Quickly_reach|Hide|Quickly_reach
@@ -26,7 +26,7 @@ Hardware|Rooted|Quickly_reach|Hide|Quickly_reach
 **TB-X605M**|✔|[Go](#Root-for-TB-X605M)|?|?|
 **The-Third-Device**|✖|✖|?|?|
 
-##  三星篇  
+##  三星篇1-1  
 
 [(Back to top)](#ILoveRy) 
    
@@ -36,6 +36,8 @@ Hardware|Rooted|Quickly_reach|Hide|Quickly_reach
 利用fiddler等抓包工具，替换书包里面的应用为设备管理器.
 
 详细教程请前往 [Wtrwx的Blog](https://wtrwx.github.io/20200206/snpcrack.html)
+
+##  三星篇1-2
 
 * ##### 5.2.3xxxxx
 5.2.3开头的版本想必是大家最难找到方法的(除非你有RY的服务器证书和签名二维码的工具))) 
