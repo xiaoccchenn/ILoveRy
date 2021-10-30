@@ -142,7 +142,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >随便点开自主学习的一个文件⇒批注⇒向左滑动 ***“其他”*** 一栏⇒选择 ***“视频”*** ⇒从文件选择⇒找到刚刚下载的视频，路径为(Andorid/data/com.netspace.myipad/cache)⇒滑动到最下面，如图:
 
-![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/58478c701bfe5bb5.jpg)
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/468464.png)
 
 >⇒点击最下面的mp4文件
 
