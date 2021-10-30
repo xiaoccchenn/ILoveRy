@@ -28,10 +28,8 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 **TB-X605M**|✔|[Go](#Root-for-TB-X605M)|✔|[Go](#Hide-for-TB-X605M)|✔|[Go](#Double-OS-for-TB-X605M)|✖|◾|
 **The-Third-Device**|✖|◾|✖|◾|✖|◾|✔|[Go](#How-to-login-in-the-third-device)|
 
-##  三星篇1-1  
+##  三星篇1-1  [(Back to top)](#Project-preview) 
 
-[(Back to top)](#Project-preview) 
-   
 * ##### 5.2.2xxxxx
 5.2.2开头的版本，目前网上已有许多教程，故不详细展开，只提供思路，思路如下：
  
@@ -39,9 +37,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 详细教程请前往 [Wtrwx的Blog](https://wtrwx.github.io/20200206/snpcrack.html)
 
-##  三星篇1-2
-
-[(Back to top)](#Project-preview)
+##  三星篇1-2  [(Back to top)](#Project-preview) 
 
 * ##### 5.2.3xxxxx
 5.2.3开头的版本想必是大家最难找到方法的(除非你有RY的服务器证书和签名二维码的工具))) 
@@ -56,8 +52,6 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 > 
 - 和机敏的判断力
 
-
-  
 首先，平板进入到安全模式(具体操作请自行探索)，如图:
 
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/54b836e2b2eba622.jpg)
@@ -81,16 +75,12 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 此时平板会重启，在重启过程中(提前准备好)同时按住音量—和电源键和HOME键15秒，强制重启以打断解密过程。
 平板再次重启后就会进入另一个界面，届时会有一个 ***重置设备*** 按钮，点击即可将平板恢复出厂设置.
 
-   #  联想篇1
-   
-   [(Back to top)](#Project-preview) 
-   
+   #  联想篇1  [(Back to top)](#Project-preview) 
+  
    相信大多数同学们的平板都是联想的TB—X605M，所以破解的需求面更为宽泛，其方法有三，且听我慢慢到来
    
-   ## 联想篇1-1
-   
-   [(Back to top)](#Project-preview)
-   
+   ## 联想篇1-1   [(Back to top)](#Project-preview) 
+      
 * ##### 5.2.352411
    
 >下面首先同样以5.2.352411版本为例(该方法仅适用于此版本)，展示一种独特的破解方法)))
@@ -153,10 +143,8 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >大功告成！
 
-   ## 联想篇1-2
-   
-   [(Back to top)](#Project-preview)
-   
+   ## 联想篇1-2   [(Back to top)](#Project-preview) 
+      
 * ##### 5.2.3xxxxx
    
 >再次以5.2.352411版本为例(该方法适用于所有版本)，仍是一种独特的破解方法😀
@@ -189,9 +177,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >大功告成!
 
-   ## 联想篇1-3
-   
-   [(Back to top)](#Project-preview)
+   ## 联想篇1-3   [(Back to top)](#Project-preview) 
    
 * ##### 5.2.3xxxxx/5.2.2xxxxx
    
