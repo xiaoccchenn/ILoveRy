@@ -228,7 +228,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >找到短接点，如图:
 
-![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/22%5DNAH4J_P%7D69Q1M%25(G5XEQ.png)
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/1464164131436.png)
 
 >先将数据线的一端连接电脑，再利用刚刚准备的回形针 ***短接*** 所示点位
 
