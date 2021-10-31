@@ -241,7 +241,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
  
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/YF10AQ4PZ%24%7BE%5DTFCK_IZEKC.png)
 
->恭喜你成功进入了 ***9008模式*** !! 然后选择9008端口即可
+>恭喜你成功进入了 ***9008模式*** !! 此时选择对应的9008端口即可
 
 >接下来的步骤就十分轻而易举了，左上角选择 ***Flat Build*** ，在第一框框里点击 ***Browser*** ，打开mbn文件，如图:
 
