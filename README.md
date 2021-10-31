@@ -234,7 +234,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >先将数据线的一端连接电脑，再利用刚刚准备的回形针 ***短接*** 所示点位
 
->确保回形针的两端已经短接点位后的一瞬间，将数据线另一端插上平板，建议事先凑近充电口，且将线插入后，不要离开松开回形针
+>确保回形针的两端已经短接点位后的一瞬间，将数据线另一端插上平板，建议事先凑近充电口，且将线插入后，不要立刻松开回形针
 
 >当电脑上的QFIL显示 ***Please Select an Existing Port*** 时，如图:
  
