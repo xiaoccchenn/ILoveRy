@@ -5,7 +5,7 @@
 
 > 如有任何疑问，请向我发Email:h.shelter@outlook.com 
 
->每一part需要用到的工具中，标记▲为有提供的，标记△的请自行准备，默认下载密码:***RYNB*** ，另因有较大文件，将使用不限速的阿里云盘分享，故请提前准备好阿里云盘客户端(不限速！！)
+>每一part需要用到的工具中，标记▲为有提供的，标记△的请自行准备，默认下载密码:***RYNB*** ，另因有较大文件，将使用百度网盘分享，请提前准备)
 
 ---
 
@@ -18,8 +18,9 @@ Versions|Hardware|Unlock|Quickly_reach
 **5.2.2xxxxx**|SM-P350|✔|[Go](#三星篇1-1)|
 **5.2.3xxxxx**|SM-P350|✔|[Go](#三星篇1-2)|
 **5.2.352411**|TB-X605M|✔|[Go](#联想篇1-1)|
-**5.2.3xxxxx**|TB-X605M|✔|**Go**[1](#联想篇1-2)、[2](#联想篇1-3)|
-**5.2.3xxxxx**|HUAWEI-C5|✔|[Go](#华为篇篇1)|
+**5.2.3xxxxx**|TB-X605M|✔|[Go](#联想篇1-2)|
+**5.2.3xxxxx**|TB-X605M|✔|[Go](#联想篇1-3)|
+**5.2.3xxxxx**|HUAWEI-C5|✔|[Go](#华为篇1)|
 
 ## Advantage_plays  
 ### (Attention!you must crack your pad before doing the followings)                            
