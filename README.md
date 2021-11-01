@@ -22,7 +22,7 @@ Versions|Hardware|Unlock|Quickly_reach
 **5.2.3xxxxx**|TB-X605M|✔|[Go](#联想篇1-3)|
 **5.2.3xxxxx**|HUAWEI-C5|✔|[Go](#华为篇1)|
 
-## Advantage_plays  
+## Advanced_plays  
 ### (Attention!you must crack your pad before doing the followings)                            
 Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Login|Quickly_reach
 --|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
@@ -30,6 +30,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 **TB-X605M**|✔|[Go](#Root-for-TB-X605M)|✔|[Go](#Hide-for-TB-X605M)|✔|[Go](#Double-OS-for-TB-X605M)|✖|◾|
 **The-Third-Device**|✖|◾|✖|◾|✖|◾|✔|[Go](#How-to-login-in-the-third-device)|
 
+# Let's start our journey ------ **Unlock!!**
    #  三星篇
 
 ##  三星篇1-1  
@@ -256,6 +257,30 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 >一会后若平板出现彩色的圈圈，下方出现 ***正在清空*** 的字眼时，则表示你已经成功了!!
 
 >大功告成!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Get ready for the next journey ------ **Advanced_plays!!**
 
 
 
