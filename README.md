@@ -297,7 +297,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 [(Back to top)](#Project-preview)
 
->接下来进入联想TB-X605M的Root环节。实际上，对于联想来说，破解绝非难事，反而是如何获取超级管理权限一直是大家苦思的问题，下面我将为大家解开这一谜团。
+>接下来进入联想TB-X605M的Root环节。实际上，对于联想来说，破解绝非难事，反而如何获取超级管理权限是大家一直苦思的问题，但有了 ***9008*** 这一利器，这一切都显得轻而易举，让我们开始吧！
 
 
 **需要准备的工具**
