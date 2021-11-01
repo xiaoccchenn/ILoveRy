@@ -304,7 +304,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
   
 >△Win10操作系统的PC一台
 >
->▲QPST_2.7.496
+>▲QPST_2.7.496--QFIL
 >
 >▲Adb集成工具
 >
