@@ -314,7 +314,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 >
 >△prog_emmc_firehose_8953_ddr.mbn
 >
->[点击下载所有内容](https://wws.lanzoui.com/b02ckrf5c
+>[点击下载所有内容](https://wws.lanzoui.com/b02cky3ah)
 
 
 
