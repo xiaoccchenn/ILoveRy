@@ -324,11 +324,49 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >若命令窗口显示 ***你的序列号 +device*** 则表示你已经成功连接电脑，如图：
 
-![]()
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/-29e1bac2d3267ea8.png)
 
->关闭该窗口
+>关闭该窗口，依次点击 ***线刷专区*** , ***EDL(9008)*** ，进入9008模式，如图
 
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/bed0c6af910fe98.png)
 
+>进入后，最上面一栏中，选择 ***Tools*** ， ***Partition Manager***，点击打开分区表，找到名为叫 ***boot*** 的分区
+
+>右键该分区，选择第一个 ***Manage partition*** ，再点击第二个 ***Read Data...***，如图：
+
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/f1cb897feb86966.png)
+
+>等待一会后，若QFIL出现下图所示内容，则表明你已经成功读取***boot***分区的***img***文件
+
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/-525022aad077396e.png)
+
+>接下来便是找到存放该***img***的文件夹，根据QFIL的信息寻找即可，值得注意的是，一般情况下，***Appdata***文件夹是被隐藏了的，需要你手动开启查看隐藏文件夹才能看到
+
+>将读取的***img***文件传输到手机
+
+>此时手机安装并打开***Magisk_23.0***,首页点击第一个***安装***，下一步，在***方式***一栏里，选择***选择并修补一个文件***，如图：
+
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/63ced23e96605293.jpg)
+
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/4e923f9f823c89f7.jpg)
+
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/26fb9a23900439ac.jpg)
+
+>找到并打开刚刚读取的***img***文件，等待修补完成，根据提示的生成路径找到修补后是***img***文件，并将其发送至电脑
+
+>电脑接受完毕后，点击***Load Image***，找到并打开刚刚所接收的文件，并进行等待
+
+>直到QFIL显示***Finish send image***时，点击***Close***
+
+>滑动分区表至最后一个名叫 ***userdata*** 的分区
+
+>右键该分区，选择第一个 ***Manage partition*** ，再点击第一个 ***Erase***，等待一会后，若QFIL显示 ***Finish...***，则表示已清除数据分区
+
+>最后一路***Close***，，最后一个窗口点OK或者X都没有问题，等待平板震动后即可拔掉数据线，若平板长时间无反应，则长按 ***电源键*** 和 ***音量下键*** 直至震动
+
+>一会后若平板出现彩色的圈圈，下方出现 ***正在清空*** 的字眼时，则表示你已经成功了***Root***
+
+>大功告成！
 
 
 
