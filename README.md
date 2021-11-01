@@ -27,7 +27,7 @@ Versions|Hardware|Unlock|Quickly_reach
 Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Login|Quickly_reach
 --|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
 **SM-P350**|✔|[Go](#Root-for-SM-P350)|✔|[Go](#Hide-for-SM-P350)|✖|◾|✖|◾|
-**TB-X605M**|✔|[Go](#联想篇2-1---Root!!)|✔|[Go](#Hide-for-TB-X605M)|✔|[Go](#Double-OS-for-TB-X605M)|✖|◾|
+**TB-X605M**|✔|[Go](#联想篇2-1)|✔|[Go](#Hide-for-TB-X605M)|✔|[Go](#Double-OS-for-TB-X605M)|✖|◾|
 **The-Third-Device**|✖|◾|✖|◾|✖|◾|✔|[Go](#How-to-login-in-the-third-device)|
 
 # Let's start our journey ------ **Unlock!!**
@@ -293,7 +293,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 #  联想篇
 
-##  联想篇2-1---Root!!
+##  联想篇2-1
 
 [(Back to top)](#Project-preview)
 
