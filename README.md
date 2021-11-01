@@ -316,8 +316,17 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 >
 >▲[点击下载所有内容](https://wws.lanzoui.com/b02cky3ah)
 
+>首先开启平板的 ***USB调试*** ，使用数据线连接你的电脑，传输方式选择 ***MYP*** 
 
+>电脑解压并打开 ***TOOLS_BY_CZ_V6.14.rar*** ,执行 ***CZ's Utility Tools V6.14.exe***
 
+>此时平板会询问：***“是否允许进行USB调试*** (若没有弹出，请确保平板已开启USB调试)，点击允许
+
+>若命令窗口显示 ***你的序列号 +device*** 则表示你已经成功连接电脑，如图：
+
+![]()
+
+>关闭该窗口
 
 
 
