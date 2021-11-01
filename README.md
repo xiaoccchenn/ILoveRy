@@ -297,8 +297,24 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 [(Back to top)](#Project-preview)
 
+>接下来进入联想TB-X605M的Root环节。实际上，对于联想来说，破解绝非难事，反而是如何获取超级管理权限一直是大家苦思的问题，下面我将为大家解开这一谜团。
 
 
+**需要准备的工具**
+  
+>△Win10操作系统的PC一台
+>
+>▲QPST_2.7.496
+>
+>▲Adb集成工具
+>
+>▲Magisk_23.0
+> 
+>△一根数据线
+>
+>△prog_emmc_firehose_8953_ddr.mbn
+>
+>[点击下载所有内容](https://wws.lanzoui.com/b02ckrf5c
 
 
 
