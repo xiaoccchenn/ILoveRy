@@ -108,15 +108,16 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
   
 <details markdown='1'><summary>展开/收起</summary>
  
->△Win10操作系统的PC一台
->
->▲Fiddler抓包工具 
->
->▲DevicePolicyManager(ByShelter).apk
->
->△一台能开热点的手机
-> 
->▲[点击下载所有内容](https://wws.lanzoui.com/b02ckj74f)
+- [ ] Win10操作系统的PC一台
+ 
+- [x] Fiddler抓包工具
+
+- [x] DevicePolicyManager(ByShelter).apk
+
+- [ ] 一台能开热点的手机
+ 
+- [x] [点击下载所有内容](https://wws.lanzoui.com/b02ckj74f)
+
 
 </details>
    
