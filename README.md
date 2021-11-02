@@ -330,7 +330,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/bed0c6af910fe98.png)
 
->进入后，最上面一栏中，选择 ***Tools*** ， ***Partition Manager***，点击打开分区表，找到名为 ***boot*** 的分区
+>进入后，打开 ***QFIL***，最上面一栏中，选择 ***Tools*** ， ***Partition Manager***，点击打开分区表，找到名为 ***boot*** 的分区
 
 >右键该分区，选择第一个 ***Manage partition*** ，再点击第二个 ***Read Data...***，如图：
 
