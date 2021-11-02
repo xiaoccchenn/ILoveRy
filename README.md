@@ -42,7 +42,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 详细教程请前往 [Wtrwx的Blog](https://wtrwx.github.io/20200206/snpcrack.html)
 
-#  [Back to top)](#Project-preview)
+#  [(Back to top)](#Project-preview)
 
 ##  三星篇1-2 
 
