@@ -26,7 +26,7 @@ Versions|Hardware|Unlock|Quickly_reach
 ### (Attention!you must crack your pad before doing the followings)                            
 Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Login|Quickly_reach
 --|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
-**SM-P350**|✔|[Go](#Root-for-SM-P350)|✔|[Go](#Hide-for-SM-P350)|✖|◾|✖|◾|
+**SM-P350**|✔|[Root](#三星篇2-1) ***/*** [Twrp](三星篇2-2)|✔|[Go](#Hide-for-SM-P350)|✖|◾|✖|◾|
 **TB-X605M**|✔|[Root](#联想篇2-1) ***/*** [Twrp](联想篇2-2)|✔|[Go](#Hide-for-TB-X605M)|✔|[Go](#Double-OS-for-TB-X605M)|✖|◾|
 **The-Third-Device**|✖|◾|✖|◾|✖|◾|✔|[Go](#How-to-login-in-the-third-device)|
 
