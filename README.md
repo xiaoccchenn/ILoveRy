@@ -35,8 +35,6 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 ##  三星篇1-1  
 
-[(Back to top)](#Project-preview) 
-
 * ##### 5.2.2xxxxx
 5.2.2开头的版本，目前网上已有许多教程，故不详细展开，只提供思路，思路如下：
  
@@ -44,9 +42,9 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 详细教程请前往 [Wtrwx的Blog](https://wtrwx.github.io/20200206/snpcrack.html)
 
-##  三星篇1-2 
+#  [Back to top)](#Project-preview)
 
- [(Back to top)](#Project-preview) 
+##  三星篇1-2 
 
 * ##### 5.2.3xxxxx
 5.2.3开头的版本想必是大家最难找到方法的(除非你有RY的服务器证书和签名二维码的工具))) 
@@ -80,9 +78,15 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >注意⚠️加密过程中，平板至少有 ***80%*** 的电量并且且平板外接电源，加密时不能重启平板或拔掉充电线，否则平板会变砖。
 
-加密完成后打开平板，进入之前那个设置界面，此时会发现 ***加密设备*** 已变成了 ***解密设备*** ，点击 ***解密*** 
-此时平板会重启，在重启过程中(提前准备好)同时按住音量—和电源键和HOME键15秒，强制重启以打断解密过程。
-平板再次重启后就会进入另一个界面，届时会有一个 ***重置设备*** 按钮，点击即可将平板恢复出厂设置.
+>加密完成后打开平板，进入之前那个设置界面，此时会发现 ***加密设备*** 已变成了 ***解密设备*** ，点击 ***解密*** 
+
+>此时平板会重启，在重启过程中(提前准备好)同时按住音量—和电源键和HOME键15秒，强制重启以打断解密过程。
+
+>平板再次重启后就会进入另一个界面，届时会有一个 ***重置设备*** 按钮，点击即可将平板恢复出厂设置.
+
+>大功告成!!
+
+#  [(Back to top)](#Project-preview)
 
    #  联想篇
   
@@ -152,7 +156,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >大功告成！
 
-#  [Back to top)](#Project-preview)
+#  [(Back to top)](#Project-preview)
 
    ## 联想篇1-2
       
@@ -188,7 +192,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >大功告成!
 
-#  [Back to top)](#Project-preview)
+#  [(Back to top)](#Project-preview)
 
    ## 联想篇1-3
    
@@ -254,7 +258,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >大功告成!!
 
-#  [Back to top)](#Project-preview)
+#  [(Back to top)](#Project-preview)
 
 
 
@@ -364,7 +368,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >大功告成！
 
-#  [Back to top)](#Project-preview)
+#  [(Back to top)](#Project-preview)
 
 
 
