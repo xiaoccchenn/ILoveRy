@@ -85,14 +85,10 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 平板再次重启后就会进入另一个界面，届时会有一个 ***重置设备*** 按钮，点击即可将平板恢复出厂设置.
 
    #  联想篇
-   
-  [(Back to top)](#Project-preview) 
   
    相信大多数同学们的平板都是联想的TB—X605M，所以破解的需求面更为宽泛，其方法有三，且听我慢慢到来
    
-   ## 联想篇1-1
-   
-  [(Back to top)](#Project-preview) 
+   ## 联想篇1-1 
       
 * ##### 5.2.352411
    
@@ -156,9 +152,9 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >大功告成！
 
+#  [Back to top)](#Project-preview)
+
    ## 联想篇1-2
-   
-   [(Back to top)](#Project-preview) 
       
 * ##### 5.2.3xxxxx
    
@@ -192,9 +188,9 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >大功告成!
 
+#  [Back to top)](#Project-preview)
+
    ## 联想篇1-3
-   
-   [(Back to top)](#Project-preview) 
    
 * ##### 5.2.3xxxxx/5.2.2xxxxx
    
@@ -258,6 +254,8 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >大功告成!!
 
+#  [Back to top)](#Project-preview)
+
 
 
 
@@ -288,14 +286,12 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 ##  三星篇2-1---Root!!
 
-[(Back to top)](#Project-preview) 
+# [(Back to top)](#Project-preview) 
 
 
 #  联想篇
 
 ##  联想篇2-1
-
-[(Back to top)](#Project-preview)
 
 >接下来进入联想***TB-X605M***的***Root***环节。实际上，对于联想来说，破解绝非难事，反而如何获取超级管理权限是大家一直苦思的问题，但有了 ***9008*** 这一利器，这一切都显得轻而易举，让我们开始吧！
 
@@ -367,6 +363,8 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 >一会后若平板出现彩色的圈圈，下方出现 ***正在清空*** 的字眼时，则表示你已经成功了***Root***
 
 >大功告成！
+
+#  [Back to top)](#Project-preview)
 
 
 
