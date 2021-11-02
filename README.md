@@ -218,11 +218,11 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 >
 >[点击下载所有内容](https://wws.lanzoui.com/b02ckrf5c)
 
->首先在电脑解压并打开 ***"QPST_2.7.496"*** ,点击第一个文件夹 ***"Driver"*** ，执行.exe文件以安装高通驱动。
+>首先在电脑解压并打开 ***"QPST_2.7.496"*** ,点击第一个文件夹 ***"Driver"*** ，执行 ***.exe*** 文件以安装高通驱动。
 
 >驱动安装完成后重启电脑，并执行 ***"QPST.2.7.496.1.exe"*** 
 
->安装完成后，右下角打开最近添加中的QPST，打开QPST,如图:
+>安装完成后，右下角打开最近添加中的 ***QPST*** ，打开 ***QPST*** ,如图:
 
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/134416464364.png)
 
@@ -230,7 +230,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/OJ6PUSCGWH%5D%60Z%7D3V784YI_H.png)
 
->接下来是最关键的一步，首先将平板关机(一定要确保)，此时已经默认你已经将后盖拆好
+>接下来是最关键的一步，首先将平板关机(一定要确保关机，或者直接将电池拆下后再装上)，此时已经默认你已经将后盖拆好
 
 >找到短接点，如图:
 
@@ -318,7 +318,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 >
 >▲[点击下载所有内容](https://wws.lanzoui.com/b02cky3ah)
 
->首先在电脑解压并打开 ***"QPST_2.7.496"*** ,点击第一个文件夹 ***"Driver"*** ，执行.exe文件以安装高通驱动。
+>首先在电脑解压并打开 ***"QPST_2.7.496"*** ,点击第一个文件夹 ***"Driver"*** ，执行 ***.exe*** 文件以安装高通驱动。
 
 >驱动安装完成后重启电脑，并执行 ***"QPST.2.7.496.1.exe"*** ，等待安装完成
 
@@ -326,9 +326,9 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >电脑解压并打开 ***TOOLS_BY_CZ_V6.14.rar*** ,执行 ***CZ's Utility Tools V6.14.exe***
 
->此时平板会询问：***“是否允许进行USB调试*** (若没有弹出，请确保平板已开启USB调试)，点击允许
+>此时平板会询问：***“是否允许进行USB调试*** (若没有弹出，请确保平板已开启 ***USB*** 调试)，点击允许
 
->若命令窗口显示 ***你的序列号 +device*** 则表示你已经成功连接电脑，如图：
+>若命令窗口显示 ***你的序列号+device*** 则表示你已经成功连接电脑，如图：
 
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/-29e1bac2d3267ea8.png)
 
