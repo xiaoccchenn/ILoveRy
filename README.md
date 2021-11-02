@@ -15,8 +15,8 @@
 ### (Attention!you must have a pad /xyx)  
 Versions|Hardware|Unlock|Quickly_reach
 --|:--:|:--:|:--:
-**5.2.2xxxxx**|SM-P350|✔|[Go](#SM-P350 1-1)|
-**5.2.3xxxxx**|SM-P350|✔|[Go](#SM-P350 1-2)|
+**5.2.2xxxxx**|SM-P350|✔|[Go](#SM-P3501-1)|
+**5.2.3xxxxx**|SM-P350|✔|[Go](#SM-P3501-2)|
 **5.2.352411**|TB-X605M|✔|[Go](#联想篇1-1)|
 **5.2.3xxxxx**|TB-X605M|✔|[Go](#联想篇1-2)|
 **5.2.3xxxxx**|TB-X605M|✔|[Go](#联想篇1-3)|
