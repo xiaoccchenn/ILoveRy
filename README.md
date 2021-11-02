@@ -33,7 +33,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 # Let's start our journey ------ **Unlock!!**
    #  三星篇
 
-##  SM-P350-1.1  
+##  SM-P350 1.1  
 
 * ##### 5.2.2xxxxx
 5.2.2开头的版本，目前网上已有许多教程，故不详细展开，只提供思路，思路如下：
