@@ -105,7 +105,9 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 >下面首先同样以5.2.352411版本为例(该方法仅适用于此版本)，展示一种独特的破解方法)))
 
   **需要准备的工具**
-   
+  
+<details markdown='1'><summary>展开/收起</summary>
+ 
 >△Win10操作系统的PC一台
 >
 >▲Fiddler抓包工具 
@@ -115,6 +117,8 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 >△一台能开热点的手机
 > 
 >▲[点击下载所有内容](https://wws.lanzoui.com/b02ckj74f)
+
+</details>
    
 >事不宜迟，我们马上开始
 
@@ -171,6 +175,8 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 >再次以5.2.352411版本为例(该方法适用于所有版本)，仍是一种独特的破解方法😀
 
   **需要准备的工具**
+
+<details markdown='1'><summary>展开/收起</summary>
   
 >▲DevicePolicyManager(ByShelter).apk
 >
@@ -181,6 +187,8 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 >△一台设置里有 ***电池*** 的平板
 >
 >▲[点击下载所有内容](https://wws.lanzoui.com/i4wwmvwlf2b)
+
+</details>
 
 >首先将少年派强行停止，然后找到设置⇒应用与通知⇒查看全部应用⇒右上角⇒显示系统进程⇒找到电子邮箱⇒电池⇒启动,如图所示:
 
@@ -208,6 +216,8 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
   **需要准备的工具**
   
+<details markdown='1'><summary>展开/收起</summary>
+  
 >△Win10操作系统的PC一台
 >
 >▲QPST_2.7.496
@@ -221,6 +231,8 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 >△prog_emmc_firehose_8953_ddr.mbn(引导文件为绝密级，故请自行寻找，一般在刷机包里面会有)
 >
 >[点击下载所有内容](https://wws.lanzoui.com/b02ckrf5c)
+
+</details>
 
 >首先在电脑解压并打开 ***"QPST_2.7.496"*** ,点击第一个文件夹 ***"Driver"*** ，执行 ***.exe*** 文件以安装高通驱动。
 
@@ -307,6 +319,8 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 
 **需要准备的工具**
+
+<details markdown='1'><summary>展开/收起</summary>
   
 >△Win10操作系统的PC一台
 >
@@ -321,6 +335,8 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 >△prog_emmc_firehose_8953_ddr.mbn
 >
 >▲[点击下载所有内容](https://wws.lanzoui.com/b02cky3ah)
+
+</details>
 
 >首先在电脑解压并打开 ***"QPST_2.7.496"*** ,点击第一个文件夹 ***"Driver"*** ，执行 ***.exe*** 文件以安装高通驱动。
 
