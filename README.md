@@ -326,7 +326,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/-29e1bac2d3267ea8.png)
 
->关闭该窗口，依次点击 ***线刷专区*** , ***EDL(9008)*** ，进入9008模式，如图
+>关闭该窗口，依次点击 ***线刷专区*** , ***EDL(9008)*** ，进入***9008***模式，如图
 
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/bed0c6af910fe98.png)
 
