@@ -57,7 +57,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 **下面便以5.2.352411版本为例(396以上版本通用)，为大家详细介绍))**
 
-   **需要准备的工具**
+###   **需要准备的工具**
 
 - 一个智慧的大脑
 > 
@@ -104,7 +104,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
    
 >下面首先同样以5.2.352411版本为例(该方法仅适用于此版本)，展示一种独特的破解方法)))
 
-  **需要准备的工具**
+###  **需要准备的工具**
   
 <details markdown='1'><summary>展开/收起</summary>
  
@@ -174,7 +174,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
    
 >再次以5.2.352411版本为例(该方法适用于所有版本)，仍是一种独特的破解方法😀
 
-  **需要准备的工具**
+###  **需要准备的工具**
 
 <details markdown='1'><summary>展开/收起</summary>
   
@@ -214,7 +214,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
    
 >接下来是关于联想平板破解的终极方法，它不受版本的限制，不受系统的限制，只要它的型号叫做TB-X605M，便可以使用接下来的方法)))
 
-  **需要准备的工具**
+###  **需要准备的工具**
   
 <details markdown='1'><summary>展开/收起</summary>
   
