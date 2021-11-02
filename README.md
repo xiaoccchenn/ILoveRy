@@ -3,7 +3,7 @@
 
 > 少年派速通教程，通，都能速通 
 
-> 如有任何疑问，请向我发Email:h.shelter@outlook.com 
+> 如有任何疑问，请向我发Email:h.shelter@outlook.com ，***(continuous updating)***
 
 >每一part需要用到的工具中，标记▲为有提供的，标记△的请自行准备，默认下载密码:***RYNB*** ，另因有较大文件，将使用百度网盘分享，请提前准备)
 
