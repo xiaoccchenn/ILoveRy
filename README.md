@@ -22,6 +22,8 @@ Versions|Hardware|Unlock|Quickly_reach
 **5.2.3xxxxx**|TB-X605M|✔|[Go](#联想篇1-3)|
 **5.2.3xxxxx**|HUAWEI-C5|✔|[Go](#华为篇1)|
 
+[点击下载各少年派版本](https://wws.lanzoui.com/b02c572xc)
+
 ## Advanced_plays  
 ### (Attention!you must crack your pad before doing the followings)                            
 Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Login|Quickly_reach
