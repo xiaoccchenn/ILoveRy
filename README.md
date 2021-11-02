@@ -316,7 +316,11 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 >
 >▲[点击下载所有内容](https://wws.lanzoui.com/b02cky3ah)
 
->首先开启平板的 ***USB调试*** ，使用数据线连接你的电脑，传输方式选择 ***MTP*** 
+>首先在电脑解压并打开 ***"QPST_2.7.496"*** ,点击第一个文件夹 ***"Driver"*** ，执行.exe文件以安装高通驱动。
+
+>驱动安装完成后重启电脑，并执行 ***"QPST.2.7.496.1.exe"*** ，等待安装完成
+
+>开启平板的 ***USB调试*** ，使用数据线连接你的电脑，传输方式选择 ***MTP*** 
 
 >电脑解压并打开 ***TOOLS_BY_CZ_V6.14.rar*** ,执行 ***CZ's Utility Tools V6.14.exe***
 
@@ -330,7 +334,11 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/bed0c6af910fe98.png)
 
->进入后，打开 ***QFIL***，最上面一栏中，选择 ***Tools*** ， ***Partition Manager***，点击打开分区表，找到名为 ***boot*** 的分区
+>进入后，打开 ***QFIL***，如图:
+
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/134416464364.png)
+
+>最上面一栏中，选择 ***Tools*** ， ***Partition Manager***，点击打开分区表，找到名为 ***boot*** 的分区
 
 >右键该分区，选择第一个 ***Manage partition*** ，再点击第二个 ***Read Data...***，如图：
 
