@@ -15,8 +15,8 @@
 ### (Attention!you must have a pad /xyx)  
 Versions|Hardware|Unlock|Quickly_reach
 --|:--:|:--:|:--:
-**5.2.2xxxxx**|SM-P350|✔|[Go](#SM-P3501-1)|
-**5.2.3xxxxx**|SM-P350|✔|[Go](#SM-P3501-2)|
+**5.2.2xxxxx**|SM-P350|✔|[Go](#SM-P350/1-1)|
+**5.2.3xxxxx**|SM-P350|✔|[Go](#SM-P350/1-2)|
 **5.2.352411**|TB-X605M|✔|[Go](#联想篇1-1)|
 **5.2.3xxxxx**|TB-X605M|✔|[Go](#联想篇1-2)|
 **5.2.3xxxxx**|TB-X605M|✔|[Go](#联想篇1-3)|
@@ -33,7 +33,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 # Let's start our journey ------ **Unlock!!**
    #  三星篇
 
-##  SM-P350 1-1  
+##  SM-P350/1-1  
 
 * ##### 5.2.2xxxxx
 5.2.2开头的版本，目前网上已有许多教程，故不详细展开，只提供思路，思路如下：
