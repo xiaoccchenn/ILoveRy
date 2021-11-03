@@ -500,9 +500,11 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 > 等待终端初始化完毕，确保显示如图：
 
-![]()
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/-67a7e3d8d287c19b.jpg)
 
-> 输入 **su**，回车，右边的 **"箭头"** 会变成 **"#"**
+> 输入 **su**，回车，右边的 **"箭头"** 会变成 **"#"**，如图
+
+![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/4438c08e853492a4.jpg)
 
 > 然后输入：
 
@@ -513,6 +515,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 > 此时，你已经完全刷入**TWRP**
 
+> 大功告成!!
 
 
 
