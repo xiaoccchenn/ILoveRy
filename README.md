@@ -488,7 +488,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 - [x] M_twrp.img
 
-- [x] [点击下载所有内容](jj)
+- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02cl58dc)
 
 </details>
 
@@ -502,7 +502,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/-67a7e3d8d287c19b.jpg)
 
-> 输入 **su**，回车，右边的 **"箭头"** 会变成 **"#"**，如图
+> 然后输入 **su**，回车，右边的 **"箭头"** 会变成 **"#"**，如图:
 
 ![](https://github.com/Shelterforyou/ILoveRy_Pics/blob/main/4438c08e853492a4.jpg)
 
@@ -513,7 +513,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 ```
 > 回车，然后等待一会即可
 
-> 此时，你已经完全刷入**TWRP**
+> 此时，你已经成功刷入了 **TB-X605M** 的 **TWRP**!!
 
 > 大功告成!!
 
