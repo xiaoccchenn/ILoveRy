@@ -478,6 +478,44 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 ###  dd命令
 
+> 相比于**9008**，使用终端命令就显得非常**easy**了，但前提是你已经获得了**Root**权限
+
+###   需要准备的工具
+
+<details markdown='1'><summary>展开/收起</summary>
+
+- [x] MT管理器
+
+- [x] M_twrp.img
+
+- [x] [点击下载所有内容](jj)
+
+</details>
+
+> 首先将**M_twrp.img**复制到**storage/emulated/0/Android**
+
+> 然后打开MT管理器，它会请求获取超级管理权限，选择允许
+
+> 然后进入到**storage/emulated/0/Android/**文件夹中，点击右上角的**•••**，点击 **打开终端**
+
+> 等待终端初始化完毕，确保显示如图：
+
+![]()
+
+> 输入 **su**，回车，右边的 **"箭头"** 会变成 **"#"**
+
+> 然后输入：
+
+```
+   dd if=M_twrp.img of=/dev/block/bootdevice/by-name/recovery
+```
+> 回车，然后等待一会即可
+
+> 此时，你已经完全刷入**TWRP**
+
+
+
+
 
 
 
