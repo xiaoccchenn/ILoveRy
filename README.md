@@ -179,15 +179,15 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 <details markdown='1'><summary>展开/收起</summary>
   
->▲DevicePolicyManager(ByShelter).apk
->
->△一个Outlook邮箱账号
->
->△一个网易邮箱账号
->
->△一台设置里有 ***电池*** 的平板
->
->▲[点击下载所有内容](https://wws.lanzoui.com/i4wwmvwlf2b)
+- [x] DevicePolicyManager(ByShelter).apk
+
+- [ ] 一个Outlook邮箱账号
+
+- [ ] 一个网易邮箱账号
+
+- [ ] 一台设置里有 ***电池*** 的平板
+
+- [x] [点击下载所有内容](https://wws.lanzoui.com/i4wwmvwlf2b)
 
 </details>
 
@@ -219,19 +219,19 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
   
 <details markdown='1'><summary>展开/收起</summary>
   
->△Win10操作系统的PC一台
->
->▲QPST_2.7.496
->
->△一根数据线
->
->△一台拆了后盖的平板
-> 
->△一根拿来短接用的回形针
->
->△prog_emmc_firehose_8953_ddr.mbn(引导文件为绝密级，故请自行寻找，一般在刷机包里面会有)
->
->[点击下载所有内容](https://wws.lanzoui.com/b02ckrf5c)
+- [ ] Win10操作系统的PC一台
+
+- [x] QPST_2.7.496
+
+- [ ] 一根数据线
+
+- [ ] 一台拆了后盖的平板
+
+- [ ] 一根拿来短接用的回形针
+
+- [ ] prog_emmc_firehose_8953_ddr.mbn(引导文件为绝密级，故请自行寻找，一般在刷机包里面会有)
+
+- [x] [点击下载所有内容](https://wws.lanzoui.com/b02ckrf5c)
 
 </details>
 
@@ -323,19 +323,19 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 <details markdown='1'><summary>展开/收起</summary>
   
->△Win10操作系统的PC一台
->
->▲QPST_2.7.496--QFIL
->
->▲Adb集成工具
->
->▲Magisk_23.0
-> 
->△一根数据线
->
->△prog_emmc_firehose_8953_ddr.mbn
->
->▲[点击下载所有内容](https://wws.lanzoui.com/b02cky3ah)
+- [ ] Win10操作系统的PC一台
+
+- [x] QPST_2.7.496--QFIL
+
+- [x] Adb集成工具
+
+- [x] Magisk_23.0
+
+- [ ] 一根数据线
+
+- [ ] prog_emmc_firehose_8953_ddr.mbn
+
+- [x] [点击下载所有内容](https://wws.lanzoui.com/b02cky3ah)
 
 </details>
 
