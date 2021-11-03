@@ -406,6 +406,8 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 > 虽然官网只有**F**版本的**TWRP**，但在一位大佬@()的加工加点下，**TWRP-for-TB-X605M**终于成功问世
 
+> 如何进入**REC**：平板关机后，三键同时按，屏幕亮后松开即可
+
 > 下面为大家介绍两种刷入**TWRP**的方法
 
 ###  9008
@@ -428,7 +430,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 - [ ] prog_emmc_firehose_8953_ddr.mbn
 
-- [x] [点击下载所有内容](https://wws.lanzoui.com/b02cky3ah)
+- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02cl58dc)
 
 </details>
 
