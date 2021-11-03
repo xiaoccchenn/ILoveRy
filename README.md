@@ -509,8 +509,9 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 > 然后输入：
 
 ```
-   dd if=M_twrp.img of=/dev/block/bootdevice/by-name/recovery
-```
+   ==dd if=M_twrp.img of=/dev/block/bootdevice/by-name/recovery==
+```   
+   
 > 回车，然后等待一会即可
 
 > 此时，你已经成功刷入了 **TB-X605M** 的 **TWRP**!!
