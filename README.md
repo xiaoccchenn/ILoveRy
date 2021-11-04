@@ -610,7 +610,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 > 然后输入：
 
-```
+```java
    dd if=M_twrp.img of=/dev/block/bootdevice/by-name/recovery
 ```   
    
