@@ -380,7 +380,8 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 # [(Back to top)](#Project-preview) 
 
-##  三星篇2-1
+##  三星篇2-2
+
 >接下来是**SM-P350**的**Root**教程，本教程建立在你已经成功刷如了**TWRP**
 
 >检验是否已经成功刷入：
@@ -394,12 +395,6 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 ### **需要准备的工具**
 
 <details markdown='1'><summary>展开/收起</summary>
-
-- [ ] Win10操作系统的PC一台
-
-- [ ] 一根数据线
-
-- [x] Odin3&Drive-for-Samsang
 
 - [ ] 一根数据 一台已经刷入TWRP_3.1.1-1的平板
 
