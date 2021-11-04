@@ -382,7 +382,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 ##  三星篇2-2
 
->接下来是**SM-P350**的**Root**教程，本教程建立在你已经成功刷如了**TWRP**
+>接下来是**SM-P350**的**Root**教程，接下来的教程建立在你已经成功刷入了**TWRP**的基础上
 
 >检验是否已经成功刷入：
 
