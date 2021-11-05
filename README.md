@@ -34,7 +34,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 --|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
 **SM-P350**|✔|[Root](#三星篇2-2) ***/*** [Twrp](三星篇2-1)|✔|[Go](#Hide-for-SM-P350)|✖|◾|✖|◾|
 **TB-X605M**|✔|[Root](#联想篇2-1) ***/*** [Twrp](#联想篇2-2)|✔|[Go](#Hide-for-TB-X605M)|✔|[Go](#Double-OS-for-TB-X605M)|✖|◾|
-**The-Third-Device**|✖|◾|✖|◾|✖|◾|✔|[Go](#How-to-login-in-the-third-device)|
+**The-Third-Device**|✖|◾|✖|◾|✖|◾|✔|[Go](#关于第三方设备登录少年派)|
 
 # Let's start our journey ------ **Unlock!!**
    #  三星篇
@@ -621,6 +621,83 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 > 大功告成!!
 
 #  [(Back to top)](#Project-preview)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 关于第三方设备登录少年派
+
+## 方法一
+
+>若你的手机已经**Root**，且安卓系统为**8.0**及以上，你可以继续食用接下来的教程
+
+>若你不符合两个条件其中任何一个，则请前往[方法二](#方法二)
+
+>我们马上开始
+
+### **需要准备的工具**
+
+<details markdown='1'><summary>展开/收起</summary>
+
+- [ ] 已经获取**Root**权限的手机
+
+- [x] **Myipad_Plugin.apk**
+
+- [x] **Lsposed.apk**
+
+- [x] **Magisk_23.0.apk**
+
+- [x] **Riru-v26.1.3.r513.8e95115fd4(513).zip**
+
+- [x] **Riru_-_LSPosed-v1.6.2_(6152)(6152).zip**
+
+- [x] **Myipad_5.2.352429.apk**
+
+- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02cl9iud)
+
+</details>
+
+>首先在手机上安装**Myipad_5.2.352429.apk**，**Magisk_23.0.apk**，**Myipad_Plugin.apk**和
+ **Lsposed.apk**
+
+>打开**Magisk_23.0.apk**，等待一会后若提示修复运行环境，则根据提示重启即可
+
+>右下角四个按钮中，点击最右边的那个
+
+>选择**从本地安装**，找到并打开刚刚下载的两个压缩文件
+
+>先刷入**Riru-v26.1.3.r513.8e95115fd4(513).zip**，忽略右下角的**重启**，重复上述步骤，从本地安装
+
+>接着刷入**Riru_-_LSPosed-v1.6.2_(6152)(6152).zip**，刷入完毕后，点击右下角**重启**
+
+>重启后，打开**Lsposed.apk**，若出现绿色的**已激活**，则说明你已经成功刷入**Lsp**
+
+>点击**模块**，点击**Myipad_Plugin**，选中**少年派**，如图:
+
+![]()
+
+>然后重启手机
+
+>此时打开**少年派**了，并在弹出的窗口中**只选中第一个**:**fake Hardware**，然后你就可以绕过**硬件认证**，成功在第三方设备登录**少年派**了
+
+>大功告成!!
+
+#  [(Back to top)](#Project-preview)
+
 
 
 
