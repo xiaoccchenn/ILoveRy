@@ -688,8 +688,6 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >点击**模块**，点击**Myipad_Plugin**，选中**少年派**，如图:
 
-![]()
-
 >然后重启手机
 
 >此时打开**少年派**了，并在弹出的窗口中**只选中第一个**:**fake Hardware**，然后你就可以绕过**硬件认证**，成功在第三方设备登录**少年派**了
