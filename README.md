@@ -694,8 +694,6 @@ Hardware|Root&Twrp|Quickly_reach|Double_OS|Quickly_reach|Login|Quickly_reach
 
 >大功告成!!
 
-#  [(Back to top)](#Project-preview)
-
 ## 方法二
 
 >若你的手机没有获取**Root**权限或者安卓版本低于**8.0**，则你可以使用如下方法
@@ -736,7 +734,7 @@ Hardware|Root&Twrp|Quickly_reach|Double_OS|Quickly_reach|Login|Quickly_reach
 
 >大功告成!!
 
-
+#  [(Back to top)](#Project-preview)
 
 
 
