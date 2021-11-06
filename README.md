@@ -33,7 +33,7 @@ Versions|Hardware|Unlock|Quickly_reach
 Hardware|Root&Twrp|Quickly_reach|Double_OS|Quickly_reach|Login|Quickly_reach
 --|:--:|:--:|:--:|:--:|:--:|:--:
 **SM-P350**|✔|[Root](#三星篇2-2) ***/*** [Twrp](三星篇2-1)|✖|◾|✖|◾|
-**TB-X605M**|✔|[Root](#联想篇2-1) ***/*** [Twrp](#联想篇2-2)|✔|[Go](#关于TB-X605M双系统&数据分区的实现)|✖|◾|
+**TB-X605M**|✔|[Root](#联想篇2-1) ***/*** [Twrp](#联想篇2-2)|✔|[Go](#关于TB-X605M双系统数据分区的实现)|✖|◾|
 **The-Third-Device**|✖|◾|✖|◾|✔|[Go](#关于第三方设备登录少年派)|
 
 # Let's start our journey ------ **Unlock!!**
@@ -739,7 +739,7 @@ Hardware|Root&Twrp|Quickly_reach|Double_OS|Quickly_reach|Login|Quickly_reach
 #  [(Back to top)](#Project-preview)
 
 
-# 关于TB-X605M双系统&数据分区的实现
+# 关于TB-X605M双系统数据分区的实现
 
 > 理论上来说，双系统的实现将破解之后的隐蔽性拉满
 
