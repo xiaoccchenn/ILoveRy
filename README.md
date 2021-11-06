@@ -771,7 +771,7 @@ Hardware|Root&Twrp|Quickly_reach|Double_OS|Quickly_reach|Login|Quickly_reach
 
 - [ ] prog_emmc_firehose_8953_ddr.mbn
 
-- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02cky3ah)/[大文件使用百度网盘分享](ff)
+- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02cky3ah)/[大文件使用百度网盘分享](https://pan.baidu.com/s/1JiApvGrE3YdLGVcTFv6TGQ)
 
 </details>
 
