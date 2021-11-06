@@ -665,13 +665,13 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 - [x] **Riru_-_LSPosed-v1.6.2_(6152)(6152).zip**
 
-- [x] **Myipad_5.2.352429.apk**
+- [x] **Myipad_5.2.352411.apk**
 
-- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02cl9iud)
+- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02ckrsyj)
 
 </details>
 
->首先在手机上安装**Myipad_5.2.352429.apk**，**Magisk_23.0.apk**，**Myipad_Plugin.apk**和
+>首先在手机上安装**Myipad_5.2.352411.apk**，**Magisk_23.0.apk**，**Myipad_Plugin.apk**和
  **Lsposed.apk**
 
 >打开**Magisk_23.0.apk**，等待一会后若提示修复运行环境，则根据提示重启即可
