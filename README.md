@@ -1,7 +1,7 @@
 # ILoveRy
 ---
 
-> 少年派速通教程，解放每一位破解路上的你们
+> 少年派速通教程，帮助每一位破解路上的你们
 
 > 如有任何疑问，请向我发Email:h.shelter@outlook.com ，***(continuous updating)***
 
