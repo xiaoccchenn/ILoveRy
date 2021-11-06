@@ -686,7 +686,7 @@ Hardware|Root&Twrp|Quickly_reach|Hide|Quickly_reach|Double_OS|Quickly_reach|Logi
 
 >重启后，打开**Lsposed.apk**，若出现绿色的**已激活**，则说明你已经成功刷入**Lsp**
 
->点击**模块**，点击**Myipad_Plugin**，选中**少年派**，如图:
+>点击**模块**，点击**Myipad_Plugin**，选中**少年派**
 
 >然后重启手机
 
