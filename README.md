@@ -696,7 +696,45 @@ Hardware|Root&Twrp|Quickly_reach|Double_OS|Quickly_reach|Login|Quickly_reach
 
 #  [(Back to top)](#Project-preview)
 
+## 方法二
 
+>若你的手机没有获取**Root**权限或者安卓版本低于**8.0**，则你可以使用如下方法
+
+>建议使用低版本登录，高版本可能会存在诸多**Bug**
+
+>我们马上开始
+
+### **需要准备的工具**
+
+<details markdown='1'><summary>展开/收起</summary>
+
+- [ ] 未获取**Root**权限的手机
+
+- [x] **Myipad_Plugin.apk**
+
+- [x] **VirtualXposed_0.18.2_target-sdk-21.apk**
+
+- [x] **Myipad_5.2.352411.apk**
+
+- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02ckrsyj)
+
+</details>
+
+>首先在手机上安装所提供的所以软件
+
+>打开**VirtualXposed_0.18.2_target-sdk-21.apk**，点击**菜单**(屏幕下方的圆形)
+
+>点击添加应用，选择 **Myipad_5.2.352411.apk**和**Myipad_Plugin.apk**
+
+>安装完成后，打开**VXP**中的**Xposed installer**
+
+>点击**模块**，勾上**Plugin**
+
+>然后再次进入**菜单**，点击最后一项**重启**，等待
+
+>此时在**VXP**中打开**少年派**，并在弹出的窗口中**只选中第一个**:**fake Hardware**，然后你就可以绕过**硬件认证**，成功在第三方设备登录**少年派**了
+
+>大功告成!!
 
 
 
