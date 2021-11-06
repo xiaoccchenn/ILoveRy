@@ -732,6 +732,8 @@ Hardware|Root&Twrp|Quickly_reach|Double_OS|Quickly_reach|Login|Quickly_reach
 
 >此时在**VXP**中打开**少年派**，并在弹出的窗口中**只选中第一个**:**fake Hardware**，然后你就可以绕过**硬件认证**，成功在第三方设备登录**少年派**了
 
+>如果出现**插件**使用问题，请前往[此处](https://tieba.baidu.com/p/7561863919)参考相关内容
+
 >大功告成!!
 
 #  [(Back to top)](#Project-preview)
