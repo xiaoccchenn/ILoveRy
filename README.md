@@ -881,33 +881,4 @@
 
 >大功告成!!
 
-#### 法二:使用第三方REC
-
->此方法建立在你已经刷入**M_Twrp.img**，若你还没有刷入，请前往[Twrp](#联想篇2-2)
-
-#### 需要准备的工具
-
-<details markdown='1'><summary>展开/收起</summary>
-
-
-- [ ]一台已经刷入**Twrp**的平板
-
-</details>
-
->关机状态下，长按三键，震动那一下，立刻松开按键
-
->若屏幕出现大大的**TeamWin**，则说明你已经成功进入了第三方**REC**
-
->点击**Mount**，挂载**system**和**vender**分区
-
->点击**Terminal**，输入:
-
-```java
-    switchslot a(b)
-```
-
->成功后退出，点击**reboot**，**reboot system**重启至另一个系统
-
->大功告成!!
-
 #  [(Back to top)](#Project-preview)
