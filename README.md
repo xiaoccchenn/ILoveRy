@@ -721,6 +721,7 @@
 
 #  [(Back to top)](#Project-preview)
 
+
 ## 联想篇2-3
 
 ### 关于TB-X605M双系统数据分区的实现
@@ -737,11 +738,12 @@
 
 >我们马上开始
 
-### 篇一:刷入双系统
+### 实现一:刷入双系统
 
 #### **需要准备的工具**
 
 <details markdown='1'><summary>展开/收起</summary>
+
 
 - [ ] Win10操作系统的PC一台
 
@@ -755,7 +757,7 @@
 
 - [ ] **prog_emmc_firehose_8953_ddr.mbn**
 
-- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02cky3ah)/[大文件使用百度网盘分享](https://pan.baidu.com/s/1JiApvGrE3YdLGVcTFv6TGQ)
+- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02cky3ah)/[**Double_OS.img(bin)**](https://pan.baidu.com/s/1JiApvGrE3YdLGVcTFv6TGQ)
 
 </details>
 
@@ -803,7 +805,7 @@
 
 > 大功告成!!
 
-### 篇二:双系统的切换
+### 实现二:双系统的切换
 
 >当你再次进入**9008**时，发现出现了**systema**和**systemb**时，则说明你已经成功刷入了双系统
 
@@ -818,6 +820,7 @@
 #### **需要准备的工具**
 
 <details markdown='1'><summary>展开/收起</summary>
+
 
 - [ ] **MT管理器**
 
@@ -849,13 +852,43 @@
 
 >大功告成!1
 
-### 法二:使用第三方REC
+#### 法二:使用第三方REC
 
 >此方法建立在你已经刷入**M_Twrp.img**，若你还没有刷入，请前往[Twrp](#联想篇2-2)
 
 #### 需要准备的工具
 
 <details markdown='1'><summary>展开/收起</summary>
+
+
+- [ ]一台已经刷入**Twrp**的平板
+
+</details>
+
+>关机状态下，长按三键，震动那一下，立刻松开按键
+
+>若屏幕出现大大的**TeamWin**，则说明你已经成功进入了第三方**REC**
+
+>点击**Mount**，挂载**system**和**vender**分区
+
+>点击**Terminal**，输入:
+
+```java
+    switchslot a(b)
+```
+
+>成功后退出，点击**reboot**，**reboot system**重启至另一个系统
+
+>大功告成!!
+
+#### 法二:使用第三方REC
+
+>此方法建立在你已经刷入**M_Twrp.img**，若你还没有刷入，请前往[Twrp](#联想篇2-2)
+
+#### 需要准备的工具
+
+<details markdown='1'><summary>展开/收起</summary>
+
 
 - [ ]一台已经刷入**Twrp**的平板
 
