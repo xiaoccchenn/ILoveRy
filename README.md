@@ -41,6 +41,11 @@
 | **TB-X605M**         |      ✅      | [**Root**](#联想篇2-1) ***/*** [**Twrp**](#联想篇2-2) |      ✅      | **[Go](#联想篇2-3)** |  ✅   | **[Go](#联想篇2-4)**              |
 | **The-Third-Device** |     ❌    |                                                   |      ✅     |                      **[Go](#关于第三方设备登录少年派)**                      |  ❌  |  |
 
+
+## Extra_storis
+
+### How to **enable** applications when you were unlocked in **TB-X605M** [Go](#番外篇1)
+
 # Let's start our journey ------ **Unlock!!**
 
    #  三星篇
