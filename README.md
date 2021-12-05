@@ -47,6 +47,8 @@
 
 ### How to **enable** applications when you were unlocked in **TB-X605M** [Go](#番外篇1)
 
+### How to **install** applications when you were unlocked in **TB-X605M**(working on it) [Go](#番外篇1)
+
 ---
 
 # Let's start our journey ------ **Unlock!!**
