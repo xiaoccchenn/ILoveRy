@@ -14,25 +14,52 @@
 ## 项目概览
 
 ###   Myiad_Crack(Accomplished)
-  - Samsung
-    * [Samsung 1-1](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung1-1.md)
-  - Lenovo
-    * [Lenovo 1-1](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo1-1.md)
-    * [Lenovo 1-2](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo1-2.md)
-    * [Lenovo 1-3](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo1-3.md)
+
+<details markdown='1'><summary>Samsung</summary>
+
+[-----Samsung 1-1](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung1-1.md)
+    
+</details>  
+
+<details markdown='1'><summary>Lenovo</summary>
+
+[-----Lenovo 1-1](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo1-1.md)
+     
+[-----Lenovo 1-2](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo1-2.md)
+
+[-----Lenovo 1-3](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo1-3.md)
+
+</details>
+
 ###  Advance_Plays(Accomplished)
- - Samsung
-    * [Samsung_twrp 2-1](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung2-1.md)
-    * [Samsung_root 2-2](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung2-2.md)
-    * [Samsung_login 2-3](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung2-3.md)
-  - Lenovo
-    * [Lenovo_root 2-1](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo2-1.md)
-    * [Lenovo_twrp 2-2](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo2-2.md)
-    * [Lenovo_login 2-3](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo2-3.md)
+
+<details markdown='1'><summary>Samsung</summary>
+
+[-----Samsung_twrp 2-1](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung2-1.md)
+
+[-----Samsung_root 2-2](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung2-2.md)
+
+[-----Samsung_login 2-3](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung2-3.md)
+
+</details>
+
+<details markdown='1'><summary>Lenovo</summary>
+
+[----Lenovo_root 2-1](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo2-1.md)
+
+[----Lenovo_twrp 2-2](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo2-2.md)
+
+[----Lenovo_login 2-3](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo2-3.md)
+
+</details>
 ### Extra_Stories(Updating)
-  - Lenovo
-    * [Extra1:How to enable applications after being locked](https://github.com/Shelterforyou/ILoveRy/blob/main/Extra_Stories/Extra1.md)
-    * [Extra2:How to install applications after being locked(**needing your help!!**\)](https://github.com/Shelterforyou/ILoveRy/blob/main/Extra_Stories/Extra2.md)
+
+<details markdown='1'><summary>Lenovo</summary>
+[-----Extra1:How to enable applications after being locked](https://github.com/Shelterforyou/ILoveRy/blob/main/Extra_Stories/Extra1.md)
+
+[-----Extra2:How to install applications after being locked(**needing your help!!**\)](https://github.com/Shelterforyou/ILoveRy/blob/main/Extra_Stories/Extra2.md)
+
+</details>
 
 ## 项目所需
 
