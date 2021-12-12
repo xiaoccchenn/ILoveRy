@@ -52,9 +52,11 @@
 [----Lenovo_login 2-3](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo2-3.md)
 
 </details>
+
 ### Extra_Stories(Updating)
 
 <details markdown='1'><summary>Lenovo</summary>
+
 [-----Extra1:How to enable applications after being locked](https://github.com/Shelterforyou/ILoveRy/blob/main/Extra_Stories/Extra1.md)
 
 [-----Extra2:How to install applications after being locked(**needing your help!!**\)](https://github.com/Shelterforyou/ILoveRy/blob/main/Extra_Stories/Extra2.md)
