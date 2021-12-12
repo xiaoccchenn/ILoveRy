@@ -1,52 +1,60 @@
-# **ILoveRy**
+# ILoveRy 
 
----
+## 关于项目
 
-> 少年派速通教程，帮助每一位破解路上的你们
+> 内容简介：这是一篇关于**少年派**的速通教程，但仍然请各位**仔细**地阅读
 
-> 如有任何疑问，请向我发Email:h.shelter@outlook.com ，***(continuous updating)***
+> 项目初衷：帮助更多的人，共同探寻更多的想法
 
->每一part需要用到的工具中，标记***✔️***为有提供的，标记***✖️***的请自行准备，默认下载密码:***RYNB*** ，另因有较大文件，将使用**百度网盘**分享，请提前准备)
+> 更新日志：
 
->你所使用的本项目但不仅限于项目内的工具和内容所造成的任何后果，皆由使用者本人承担
 
->项目最终解释权归本人所有，你使用即代表你同意
+## 项目概览
 
----
+###   Myiad_Crack(Accomplished)
+  - Samsung
+    * [Samsung 1-1](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung1-1.md)
+  - Lenovo
+    * [Lenovo 1-1](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo1-1.md)
+    * [Lenovo 1-2](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo1-2.md)
+    * [Lenovo 1-3](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo1-3.md)
+###  Advance_Plays(Accomplished)
+ - Samsung
+    * [Samsung_twrp 2-1](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung2-1.md)
+    * [Samsung_root 2-2](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung2-2.md)
+    * [Samsung_login 2-3](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung2-3.md)
+  - Lenovo
+    * [Lenovo_root 2-1](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo2-1.md)
+    * [Lenovo_twrp 2-2](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo2-2.md)
+    * [Lenovo_login 2-3](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo2-3.md)
+### Extra_Stories(Updating)
+  - Lenovo
+    * [Extra1:How to enable applications after being locked](https://github.com/Shelterforyou/ILoveRy/blob/main/Extra_Stories/Extra1.md)
+    * [Extra2:How to install applications after being locked(**needing your help!!**\)](https://github.com/Shelterforyou/ILoveRy/blob/main/Extra_Stories/Extra2.md)
 
-# Project preview
+## 项目所需
 
-## Unlock      
+    - [ ] 一台Win10操作系统的电脑
+    - [ ] 一根以上的数据线
+    - [ ] 一台平板
+    - [x] 你的**Star**
 
-### (Attention!you must have a pad /xyx)  
+## 注意事项
 
-| Versions       |   Hardware    | Unlock |  Quickly_reach   |
-| -------------- | :-----------: | :----: | :--------------: |
-| **5.2.2xxxxx** |  **SM-P350**  |    ✅    | [Go](#三星篇1-1) |
-| **5.2.3xxxxx** |  **SM-P350**  |    ✅    | [Go](#三星篇1-2) |
-| **5.2.352411** | **TB-X605M**  |    ✅     | [Go](#联想篇1-1) |
-| **5.2.3xxxxx** | **TB-X605M**  |    ✅     | [Go](#联想篇1-2) |
-| **5.2.3xxxxx** | **TB-X605M**  |    ✅    | [Go](#联想篇1-3) |
-| **5.2.3xxxxx** | **HUAWEI-C5** |    ✅    |  [Go](#华为篇1)  |
+> 你所使用的本项目但不仅限于项目内的工具和内容所造成的任何后果，皆由使用者本人承担
 
-### [***点击下载各少年派版本***](https://wws.lanzoui.com/b02c572xc)，***也欢迎私发我Email投稿补充***。
+> 项目最终解释权归本人所有，你使用即代表你同意
+ 
+>  未经作者授权，请勿擅自转载，转载请注明原出处
 
-## Advanced_plays  
+## 特别鸣谢
 
-### (Attention!you must crack your pad before doing the followings)                            
+> @Silhouette
 
-| Hardware             | Root&Twrp |                     Quickly_reach                     |  Login |                Quickly_reach                | Double_OS |            Quickly_reach            |
-| -------------------- | :-------: | :---------------------------------------------------: | :-------: | :-----------------------------------------: | :---: | :---------------------------------: |
-| **SM-P350**          |     ✅    | [**Root**](#三星篇2-2) ***/*** [**Twrp**](三星篇2-1)  |    ✅     |          **[Go](#三星篇2-3)**               |   ❌   |    |
-| **TB-X605M**         |      ✅      | [**Root**](#联想篇2-1) ***/*** [**Twrp**](#联想篇2-2) |      ✅      | **[Go](#联想篇2-3)** |  ✅   | **[Go](#联想篇2-4)**              |
-| **The-Third-Device** |     ❌    |                                                   |      ✅     |                      **[Go](#关于第三方设备登录少年派)**                      |  ❌  |  |
+> @//undefined
 
----
+> @星极
 
-## Extra_storis
-
- - [x] 1.How to **enable** applications when you were unlocked in **TB-X605M** [Go](#番外篇1)
-
- - [ ] 2.How to **install** applications when you were unlocked in **TB-X605M**(Expect it!) [Go](#番外篇1)
-
----
+## 联系作者
+> 如有任何疑问，请留Issue或发
+Email：h.shelter@outlook.com
