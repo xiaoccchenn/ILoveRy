@@ -49,12 +49,11 @@
 
 ## 特别鸣谢
 
-> @Silhouette
+> **@Silhouette**
 
-> @//undefined
+> **@//undefined**
 
-> @星极
+> **@星极**
 
 ## 联系作者
-> 如有任何疑问，请留Issue或发
-Email：h.shelter@outlook.com
+> 如有任何疑问，请留**Issue**或发**Email：h.shelter@outlook.com**
