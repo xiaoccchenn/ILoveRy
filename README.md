@@ -1,6 +1,6 @@
 # ILoveRy 
 
-## 关于项目
+## Project_Main
 
 > 内容简介：这是一篇关于**少年派**的速通教程，但仍然请各位**仔细**地阅读
 
@@ -11,7 +11,7 @@
 - **2021.12.12**:Add Extra2
 - **2021.12.12**:Upload apps and zips
 
-## 项目概览
+## Project_Preview
 
 ###   Myiad_Crack(Accomplished)
 
@@ -63,14 +63,14 @@
 
 </details>
 
-## 项目所需
+## Project_Need
 
 - [ ] 一台Win10操作系统的电脑
 - [ ] 一根以上的数据线
 - [ ] 一台平板
 - [x] 你的**Star**
 
-## 注意事项
+## Matters_Attention
 
 > 你所使用的本项目但不仅限于项目内的工具和内容所造成的任何后果，皆由使用者本人承担
 
@@ -78,7 +78,7 @@
  
 >  未经作者授权，请勿擅自转载，转载请注明原出处
 
-## 特别鸣谢
+## Thanks_for
 
 > **@Silhouette**
 
@@ -86,5 +86,5 @@
 
 > **@星极**
 
-## 联系作者
+## Contact_Author
 > 如有任何疑问，请留**Issue**或发**Email：h.shelter@outlook.com**
