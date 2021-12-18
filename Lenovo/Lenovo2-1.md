@@ -9,17 +9,15 @@
 
 - [ ] Win10操作系统的PC一台
 
-- [x] **QPST_2.7.496--QFIL**
+- [ ] **QPST_2.7.496--QFIL**
 
-- [x] **Adb**集成工具
+- [x] [**Adb**集成工具](https://github.com/Shelterforyou/ILoveRy/raw/main/Zips/%20tools_by_cz_v6.14.rar)
 
-- [x] **Magisk_23.0.apk**
+- [x] [**Magisk_23.0.apk**](https://github.com/Shelterforyou/ILoveRy/raw/main/Applications/Magisk_23.0.apk)
 
 - [ ] 一根数据线
 
 - [ ] **prog_emmc_firehose_8953_ddr.mbn**
-
-- [x] [点击下载所有内容](https://wws.lanzoui.com/b02cky3ah)
 
 </details>
 
