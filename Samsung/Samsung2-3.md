@@ -26,11 +26,6 @@
 
 - [x] [**AutumnBox.zip**](https://github.com/Shelterforyou/ILoveRy/raw/main/Zips/%20autumnbox.zip)
 
-- [ ] **Myipad_5.2.352411.apk**
-
-
-- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02cm6rza)
-
 </details>
 
 > 首先在电脑解压并打开**AutumnBox.zip**，以管理员身份运行**AutumnBox-秋之盒.exe**
