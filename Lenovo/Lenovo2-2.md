@@ -19,17 +19,15 @@
 
 - [ ] Win10操作系统的PC一台
 
-- [x] **QPST_2.7.496--QFIL**
+- [ ] **QPST_2.7.496--QFIL**
 
-- [x] Adb集成工具
+- [x] [**Adb**集成工具](https://github.com/Shelterforyou/ILoveRy/raw/main/Zips/%20tools_by_cz_v6.14.rar)
 
-- [x] **M_twrp.img**
+- [x] [**M_twrp.img**(rynb)](https://www.lanzoup.com/iBkd9w3202j)
 
 - [ ] 一根数据线
 
 - [ ] **prog_emmc_firehose_8953_ddr.mbn**
-
-- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02cl58dc)
 
 </details>
 
