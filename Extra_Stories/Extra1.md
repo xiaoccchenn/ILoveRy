@@ -14,15 +14,20 @@
 
 <details markdown='1'><summary>展开/收起</summary>
 
-- [ ] 已经获取**Root**权限的平板
-- [x] **Myipad_Plugin.apk**
-- [x] **Lsposed.apk**
-- [x] **Magisk_23.0.apk**
-- [x] **Riru-v26.1.3.r513.8e95115fd4(513).zip**
-- [x] **Riru_-_LSPosed-v1.6.2_(6152)(6152).zip**
-- [x] **Myipad_5.2.352411.apk**
-- [x] 应用管理.apk
-- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02ckrsyj)
+
+- [ ] 已经获取**Root**权限的手机
+
+- [x] [**Myipad_Plugin.apk**](https://github.com/Shelterforyou/ILoveRy/raw/main/Applications/MyiPad%20Plugin_0.2.apk)
+
+- [x] [**Lsposed.apk**](https://github.com/Shelterforyou/ILoveRy/raw/main/Applications/LSPosed_v1.5.2.apk)
+
+- [x] [**Magisk_23.0.apk**](https://github.com/Shelterforyou/ILoveRy/raw/main/Applications/Magisk_23.0.apk)
+
+- [x] [**Riru-v26.1.3.r513.8e95115fd4(513).zip**](https://github.com/Shelterforyou/ILoveRy/raw/main/Zips/%20riru-v26.1.3.r513.8e95115fd4(513).zip)
+
+- [x] [**Riru_-_LSPosed-v1.6.2_(6152)(6152).zip**](https://github.com/Shelterforyou/ILoveRy/raw/main/Zips/%20riru_-_lsposed-v1.6.2_(6152)(6152).zip)
+
+- [ ] **应用管理Xposed.apk(酷安)**
 
 </details>
 
