@@ -10,6 +10,7 @@
 - **2021.12.8**:Add Extra1 
 - **2021.12.12**:Add Extra2
 - **2021.12.18**:Upload apps and zips
+- **2021.12.18**:Add a release
 
 ## Project_Preview
 
