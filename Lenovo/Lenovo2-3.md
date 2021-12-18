@@ -8,7 +8,7 @@
 
 > 别着急，接下来便是教大家如何稳定使用高版本的少年派的同时，还能正常使用平板
 
-> 该方法建立在你的平板已经获得了**Root**权限，若没有，请先移步[**Root**](#联想篇2-1)
+> 该方法建立在你的平板已经获得了**Root**权限，若没有，请先移步[**Root**](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo2-1.md)
 
 > 我们马上开始
 
