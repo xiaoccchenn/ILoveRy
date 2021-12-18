@@ -6,7 +6,7 @@
 
 >**使用音量上+电源键+HOME键**进入**REC**，若显示大大的**TEAMWIN**图案，则说明你已经成功刷入
 
->若你还未刷入，请前往[**Twrp**](#三星篇2-1)刷入**TWRP**
+>若你还未刷入，请前往[**Twrp**](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung2-1.md)刷入**TWRP**
 
 >马上开始我们的**Root**吧
 
