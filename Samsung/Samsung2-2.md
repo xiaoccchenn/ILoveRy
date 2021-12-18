@@ -17,9 +17,7 @@
 
 - [ ] 一根数据 一台已经刷入**TWRP_3.1.1-1**的平板
 
-- [x] **Magisk_22.0.zip**
-
-- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02cl9iud)
+- [x] [**Magisk_22.0.zip**](https://github.com/Shelterforyou/ILoveRy/raw/main/Zips/%20magisk-v22.0.zip)
 
 </details>
 
