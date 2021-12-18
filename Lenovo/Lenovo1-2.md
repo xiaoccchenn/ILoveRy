@@ -8,16 +8,13 @@
 
 <details markdown='1'><summary>展开/收起</summary>
 
-
-- [x] **DevicePolicyManager(ByShelter).apk**
+- [x] [**DevicePolicyManager(ByShelter).apk**](https://github.com/Shelterforyou/ILoveRy/raw/main/Applications/%20devicepolicymanager_1.0.apk)
 
 - [ ] 一个Outlook邮箱账号
 
 - [ ] 一个网易邮箱账号
 
 - [ ] 一台设置里有 **电池** 的平板
-
-- [x] [点击下载所有内容](https://wws.lanzoui.com/i4wwmvwlf2b)
 
 </details>
 
