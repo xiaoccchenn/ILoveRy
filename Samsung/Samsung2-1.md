@@ -12,15 +12,13 @@
 >
 >- [ ] 一根数据线
 >
->- [x] **Odin3&Drive-for-Samsang**
+>- [x] [**Odin3&Drive-for-Samsang**](https://github.com/Shelterforyou/ILoveRy/raw/main/Zips/%20%E4%B8%89%E6%98%9Fusb%E9%A9%B1%E5%8A%A8%E5%8F%8Aodin3.1.zip)
 >
->- [x] **TWRP_3.1.1-1.tar**
+>- [x] [**TWRP_3.1.1-1.tar**](https://github.com/Shelterforyou/ILoveRy/raw/main/Zips/%20twrp_3.1.1-1.zip)
 >
->- [x] **Magisk_22.0.zip**
+>- [x] [**Magisk_22.0.zip**](https://github.com/Shelterforyou/ILoveRy/raw/main/Zips/%20magisk-v22.0.zip)
 >
->- [x] **TOOLS_BY_CZ_V6.14.rar**
->
->- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02cl9iud)
+>- [x] [**TOOLS_BY_CZ_V6.14.rar**](https://github.com/Shelterforyou/ILoveRy/raw/main/Zips/%20tools_by_cz_v6.14.rar)
 >
 ></details>
 >
