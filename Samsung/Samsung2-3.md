@@ -19,11 +19,14 @@
 <details markdown='1'><summary>展开/收起</summary>
 
 - [ ] 刚刚**恢复出厂设置**的平板(切记)
+
 - [ ] 一条数据线
-- [ ] 一台电脑
-- [x] **com.oasisfeng.island_4.5.4-45400_minAPI21(nodpi)_apkmirror.com.apk**
-- [x] **AutumnBox.zip**
-- [x] **Myipad_5.2.352411.apk**
+
+- [x] [**com.oasisfeng.island_4.5.4-45400_minAPI21(nodpi)_apkmirror.com.apk**](https://github.com/Shelterforyou/ILoveRy/raw/main/Applications/%20com.oasisfeng.island_4.5.4-45400_mi.apk)
+
+- [x] [**AutumnBox.zip**](https://github.com/Shelterforyou/ILoveRy/raw/main/Zips/%20autumnbox.zip)
+
+- [ ] **Myipad_5.2.352411.apk**
 
 
 - [x] [点击下载所有内容](https://wwd.lanzoui.com/b02cm6rza)
@@ -32,9 +35,7 @@
 
 > 首先在电脑解压并打开**AutumnBox.zip**，以管理员身份运行**AutumnBox-秋之盒.exe**
 
-> 在平板开启**usb**调试，用数据线连接电脑，如图:
-
-![]()
+> 在平板开启**usb**调试，用数据线连接电脑
 
 > 然后使用**秋之盒**给平板安装**com.oasisfeng.island_4.5.4-45400_minAPI21(nodpi)_apkmirror.com.apk**和**Myipad_5.2.352411.apk**
 
@@ -44,9 +45,7 @@
 
 > 激活成功后，打开i**sland**(先不要松开数据线)
 
-> 右下角点击天书，开启**ADB安全结界**，如图:
-
-![]()
+> 右下角点击天书，开启**ADB安全结界**
 
 > 请注意，若在点击后，电脑显示**请连接设备**，则说明已经激活成功
 
@@ -56,9 +55,7 @@
 
 > 当你第二次输入完密码后，会发现进不去少年派的主界面
 
-> 等待一会后，会出现两个激活选项，如图:
-
-![]()
+> 等待一会后，会出现两个激活选项
 
 > 首先点击**激活设备管理器**(别害怕，锁不上的)
 
