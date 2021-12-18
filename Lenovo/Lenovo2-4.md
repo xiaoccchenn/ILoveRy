@@ -22,18 +22,16 @@
 >
 >- [ ] Win10操作系统的PC一台
 >
->- [x] **QPST_2.7.496--QFIL**
+>- [ ] **QPST_2.7.496--QFIL**
 >
->- [x] Adb集成工具
+>- [x] [Adb集成工具](https://github.com/Shelterforyou/ILoveRy/raw/main/Zips/%20tools_by_cz_v6.14.rar)
 >
->- [x] **Double_OS.img(bin)**
+>- [x] [**Double_OS.img**](https://pan.baidu.com/s/1JiApvGrE3YdLGVcTFv6TGQ)
 >
 >- [ ] 一根数据线
 >
 >- [ ] **prog_emmc_firehose_8953_ddr.mbn**
->
->- [x] [点击下载所有内容](https://wwd.lanzoui.com/b02cky3ah)/[**Double_OS.img(bin)**](https://pan.baidu.com/s/1JiApvGrE3YdLGVcTFv6TGQ)
->
+
 ></details>
 >
 >>首先在电脑解压并打开 ***"QPST_2.7.496"*** ,点击第一个文件夹 ***"Driver"*** ，执行 ***.exe*** 文件以安装高通驱动。
@@ -42,7 +40,7 @@
 >
 >>开启平板的 ***USB调试*** ，使用数据线连接你的电脑，传输方式选择 ***MTP*** 
 >
->>电脑解压并打开 ***TOOLS_BY_CZ_V6.14.rar*** ,执行 ***CZ's Utility Tools V6.14.exe***
+>>电脑解压并打开 ***TOOLS_BY_CZ_V6.14.rar*** ,执行 ***CZ's Utility Tools V6.14.ex
 >
 >>此时平板会询问：***“是否允许进行USB调试*** (若没有弹出，请确保平板已开启 ***USB*** 调试)，点击允许
 >
