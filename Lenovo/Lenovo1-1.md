@@ -11,14 +11,11 @@
 
 - [ ] Win10操作系统的PC一台
 
-- [x] Fiddler抓包工具
+- [ ] Fiddler抓包工具
 
-- [x] **DevicePolicyManager(ByShelter).apk**
+- [x] [**DevicePolicyManager(ByShelter).apk**](https://github.com/Shelterforyou/ILoveRy/raw/main/Applications/%20devicepolicymanager_1.0.apk)
 
 - [ ] 一台能开热点的手机
-
-- [x] [点击下载所有内容](https://wws.lanzoui.com/b02ckj74f)
-
 
 </details>
 
