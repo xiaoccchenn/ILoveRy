@@ -51,6 +51,8 @@
 
 [----Lenovo_login 2-3](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo2-3.md)
 
+[----Lenovo_DoubleOS 2-4](https://github.com/Shelterforyou/ILoveRy/blob/main/Lenovo/Lenovo2-4.md)
+
 </details>
 
 ### Extra_Stories(Updating)
