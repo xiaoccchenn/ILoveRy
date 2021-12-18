@@ -26,7 +26,7 @@
 >
 >- [x] [Adb集成工具](https://github.com/Shelterforyou/ILoveRy/raw/main/Zips/%20tools_by_cz_v6.14.rar)
 >
->- [x] [**Double_OS.img**](https://pan.baidu.com/s/1JiApvGrE3YdLGVcTFv6TGQ)
+>- [x] [**Double_OS.img**(rynb)](https://pan.baidu.com/s/1JiApvGrE3YdLGVcTFv6TGQ)
 >
 >- [ ] 一根数据线
 >
