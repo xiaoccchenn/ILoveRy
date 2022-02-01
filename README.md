@@ -12,6 +12,10 @@
 - **2021.12.18**:Upload apps and zips
 - **2021.12.18**:Add a release
 - **2022.1.9**:Delete a release by mistake,we will publish again later added with Teacher_pads
+- **2022.2.1**:Update an another way to log in Samsang_pads(No need for PC)
+
+> 项目公告
+- **Happy New Year！！**
 
 ## Project_Preview
 
@@ -41,7 +45,11 @@
 
 [-----Samsung_root 2-2](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung2-2.md)
 
-[-----Samsung_login 2-3](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung2-3.md)
+[-----Samsung_login_1 2-3](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsung2-3.md)
+
+[-----Samsung_login_2 2-4](https://github.com/Shelterforyou/ILoveRy/blob/main/Samsung/Samsang2-4.md)
+
+
 
 </details>
 
