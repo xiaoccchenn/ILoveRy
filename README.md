@@ -13,6 +13,7 @@
 - **2021.12.18**:Add a release
 - **2022.1.9**:Delete a release by mistake,we will publish again later added with Teacher_pads
 - **2022.2.1**:Update an another way to log in Samsang_pads(No need for PC)
+- **2022.2.2**:Update Extra2,we finally solve it))
 
 > 项目公告
 - **Happy New Year！！**
@@ -71,7 +72,7 @@
 
 [-----Extra1:How to enable applications after being locked](https://github.com/Shelterforyou/ILoveRy/blob/main/Extra_Stories/Extra1.md)
 
-[-----Extra2:How to install applications after being locked(**needing your help!!**\)](https://github.com/Shelterforyou/ILoveRy/blob/main/Extra_Stories/Extra2.md)
+[-----Extra2:How to install applications after being locked](https://github.com/Shelterforyou/ILoveRy/blob/main/Extra_Stories/Extra2.md)
 
 </details>
 
